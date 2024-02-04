@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: surslab.github.io/sitemap.xml
