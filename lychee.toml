@@ -1,0 +1,37 @@
+# Exclude Liquid syntax and specific problematic URLs
+exclude = [
+    '{{',
+    '}}',
+    'file:///home/runner/work/SustainableUrbanSystemsLab.github.io/SustainableUrbanSystemsLab.github.io/_projects/'
+]
+
+# Ignore SSL certificate issues
+insecure = true
+
+# Exclude all mailto links
+exclude_mail = true
+
+# Increase timeout for slow responses
+timeout = 30
+
+# Retry failed requests
+max_retries = 3
+
+# Custom user agent to avoid being blocked
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+# Exclude specific file extensions
+exclude_file_extension = ["webp", "png"]
+
+# Remap local paths
+remap = [
+    '/_site(/?.*)/assets/(.*) /_site/assets/$2'
+]
+
+# Exclude LinkedIn URLs (which return 999 status codes)
+exclude_url = [
+    "https://www.linkedin.com"
+]
+
+# Treat specific status codes as successful
+accept = [200, 403, 999]
