@@ -412,7 +412,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
-    - ".gif"
+    #- ".gif"
   output_formats:
     webp: "-quality 85"
 
