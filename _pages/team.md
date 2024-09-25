@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/
-title: team
+title: Team
 description: Current and previous members of the lab
 nav: true
 nav_order: 6

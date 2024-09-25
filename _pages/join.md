@@ -1,6 +1,6 @@
 ---
 layout: page
-title: join
+title: Join
 permalink: /join/
 description: Information for prospective students
 nav: true
