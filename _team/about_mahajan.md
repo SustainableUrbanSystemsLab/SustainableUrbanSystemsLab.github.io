@@ -2,7 +2,7 @@
 layout: page
 title: Anubha Mahajan
 description: Computer Science
-img:
+img: assets/img/team/Mahajan.jpg
 importance: 1
 category: BS
 ---

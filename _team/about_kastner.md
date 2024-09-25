@@ -2,13 +2,13 @@
 layout: page
 title: Dr. Patrick Kastner
 description: Assistant Professor and Director of the Sustainable Urban Systems Lab at Georgia Tech.
-img: assets/img/team/Kastner_Linkedin.jpg
+img: assets/img/team/Kastner.jpg
 importance: 1
 category: Director
 ---
 
 <div class="profile float-right"> 
-<img src="/assets/img/team/Kastner_Linkedin.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/Kastner.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
 Patrick Kastner is an Assistant Professor with the [School of Architecture](https://arch.gatech.edu/) and directs the [Sustainable Urban Systems Lab](https://sustainableurbansystems.com/) at Georgia Tech, specializing in environmental performance simulation and the decarbonization of buildings and cities.

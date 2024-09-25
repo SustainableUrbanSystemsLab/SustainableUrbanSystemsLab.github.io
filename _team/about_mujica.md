@@ -2,7 +2,7 @@
 layout: page
 title: Sofia Mujica
 description: Mechanical Engineering
-img:
+img: assets/img/team/Mujica.jpg
 importance: 1
 category: BS
 ---

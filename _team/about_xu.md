@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Hang Xu
-description: PhD student in Architecture
-img:
+description: PhD Student in Architecture
+img: https://raw.githubusercontent.com/HangXXXu/Selfimage/refs/heads/main/image_1.png
 importance: 1
 category: PhD
 ---

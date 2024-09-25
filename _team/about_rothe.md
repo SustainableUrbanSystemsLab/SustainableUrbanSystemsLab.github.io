@@ -2,7 +2,7 @@
 layout: page
 title: Chinmay Rothe
 description: MS in High Performance Building
-img:
+img: https://arch.gatech.edu/sites/default/files/2023-11/Rothe.jpeg
 importance: 1
 category: MS
 ---

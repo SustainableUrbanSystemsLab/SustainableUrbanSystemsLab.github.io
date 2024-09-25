@@ -2,7 +2,7 @@
 layout: page
 title: Shivam Patel
 description: Computer Science
-img:
+img: assets/img/team/Patel.jpg
 importance: 1
 category: BS
 ---

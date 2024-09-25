@@ -2,7 +2,7 @@
 layout: page
 title: Ze Yu Jiang
 description: Computer Science and Math
-img:
+img: assets/img/team/Jiang.jpg
 importance: 1
 category: BS
 ---
