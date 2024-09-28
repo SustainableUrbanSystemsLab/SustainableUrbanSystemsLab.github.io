@@ -14,7 +14,8 @@ Thank you for your interest in working with me. I receive a fair number of inqui
 </div>
 <br>
 
-If you are an architect or urban designer, we will teach you data/technical skills to effectively apply your knowledge to promote sustainable decision-making in your community. If you are a coder or technical student in urbanism and planning, we will teach you how to use your skills for more sustainable cities.
+- If you are an architect or urban designer, we will teach you data/technical skills to effectively apply your domain expertise to build modeling and decision-making tools. 
+- If you are a coder or from a technical background, we will teach you how to use your skills for more sustainable cities.
 
 You can start working with me in a number of ways, depending on whether you are a Georgia Tech (GT) student or external to GT.
 
