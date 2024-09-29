@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sina Rahimi
-description: PhD Student in Building Science at TMU
+description: PhD Student in Building Science at TMU  (co-advisee)
 img: assets/img/team/Rahimi.jpg
 importance: 1
 category: PhD
