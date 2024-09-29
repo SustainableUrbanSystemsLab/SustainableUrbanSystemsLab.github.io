@@ -2,7 +2,7 @@
 layout: page
 title: Silvia Vangelova
 description: MS in ISyE
-img: https://avatars.githubusercontent.com/u/49694975?v=4
+img: assets/img/team/Vangelova.jpg
 importance: 1
 category: Alumni
 ---
