@@ -7,10 +7,8 @@ importance: 1
 category: PhD
 ---
 
-Co-advisee together with [Prof. Umberto Berardi](https://sites.google.com/site/umbertoberardihomepage/).
+<div class="profile"> 
+<img src="assets/img/team/Rahimi.jpg" class="img-fluid z-depth-1 rounded"/>
+</div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/User-avatar.svg"
-       class="img-fluid z-depth-1 rounded"
-       width="100"
-       height="100"
-       alt="User avatar"/>
+Co-advisee together with [Prof. Umberto Berardi](https://sites.google.com/site/umbertoberardihomepage/).
