@@ -7,7 +7,7 @@ importance: 6
 category: Georgia Tech
 ---
 
-{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/VIP-SMUR/wiki/main/docs/index.md %}{% endcapture %}
+{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/VIP-SMUR/vip-smur.github.io/refs/heads/main/docs/index.md %}{% endcapture %}
 {% assign lines = remote_content | split: '
 ' %}
 {% for line in lines offset:2 %}
