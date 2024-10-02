@@ -8,5 +8,5 @@ category: Alumni
 ---
 
 <div class="profile"> 
-<img src="assets/img/team/Vangelova.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/Vangelova.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>

@@ -8,7 +8,7 @@ category: PhD
 ---
 
 <div class="profile"> 
-<img src="assets/img/team/Rahimi.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/Rahimi.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
 Co-advisee together with [Prof. Umberto Berardi](https://sites.google.com/site/umbertoberardihomepage/).

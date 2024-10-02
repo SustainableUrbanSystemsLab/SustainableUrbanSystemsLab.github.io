@@ -8,5 +8,5 @@ category: MS
 ---
 
 <div class="profile"> 
-<img src="assets/img/team/Jadhav.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/Jadhav.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
