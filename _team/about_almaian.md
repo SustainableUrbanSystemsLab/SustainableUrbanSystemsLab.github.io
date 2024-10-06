@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maryam Alamaian
+title: Maryam Almaian
 description: MS in Architecture (High Performance Building)
 img: https://arch.gatech.edu/sites/default/files/2023-11/Almaian.jpeg
 importance: 1
