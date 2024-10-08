@@ -12,5 +12,6 @@ category: Collaborators
 <div class="profile"> 
 <img src="https://www.cdi.pitt.edu/sites/default/files/person-images/benson%20ku%20headshot.jpeg" class="img-fluid z-depth-1 rounded"/>
 </div>
+<br>
 
 [Link to Website](https://med.emory.edu/directory/profile/?u=BSKU)
