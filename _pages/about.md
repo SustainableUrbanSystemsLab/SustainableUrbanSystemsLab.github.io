@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 <div style="margin-bottom: 20px;">
   <img src="/assets/img/cd/sustainlab-logo-wordmark-color-white.svg" 
        class="img-fluid theme-aware-logo" 
-       style="max-width: 75%; min-width: 310px;" 
+       style="max-width: 60%; min-width: 330px;" 
        alt="SustainLab Logo">
 </div>
 
