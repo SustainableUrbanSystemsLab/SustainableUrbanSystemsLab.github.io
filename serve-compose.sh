@@ -1,1 +1,1 @@
-docker-compose up --watch
+docker-compose up
