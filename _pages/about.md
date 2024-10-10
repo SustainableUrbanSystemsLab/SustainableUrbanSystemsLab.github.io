@@ -2,18 +2,20 @@
 layout: about
 title: About
 permalink: /
-subtitle: School of Architecture — Georgia Institute of Technology #Hinman Building, 723 Cherry St NW, Atlanta, GA 30332
+subtitle: # School of Architecture — Georgia Institute of Technology #Hinman Building, 723 Cherry St NW, Atlanta, GA 30332
 
 profile:
-  align: right
-  image: # prof_pic.jpg
+  align: left
+  image: # cd/sustainlab-logo-wordmark-white.svg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: # School of Architecture — Georgia Institute of Technology
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
+
+<img src="/assets/img/cd/sustainlab-logo-wordmark-color-white.svg" class="img-fluid" width="50%" alt="SustainLab Logo" class="theme-aware-logo">
 
 The Sustainable Urban Systems Lab, led by [Dr. Patrick Kastner](/team/) at Georgia Tech's [School of Architecture](https://arch.gatech.edu/) (SoA), focuses on developing innovative tools and methodologies to estimate performance indicators of buildings and cities.
 

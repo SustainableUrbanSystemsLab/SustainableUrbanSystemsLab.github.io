@@ -138,6 +138,11 @@ html[data-theme-setting="dark"] {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
   }
+
+  .theme-aware-logo {
+    content: url('/assets/img/cd/sustainlab-logo-wordmark-color-white.svg');
+    margin-bottom: 20px;
+  }
 }
 
 html[data-theme-setting="light"] {
@@ -153,5 +158,10 @@ html[data-theme-setting="light"] {
     padding-left: 10px;
     padding-top: 12px;
     display: block;
+  }
+
+  .theme-aware-logo {
+    content: url('/assets/img/cd/sustainlab-logo-wordmark-color-black.svg');
+    margin-bottom: 20px;
   }
 }
