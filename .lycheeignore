@@ -2,4 +2,5 @@ https://arch.gatech.edu/
 https://simtigrate.gatech.edu/
 https://raw.githubusercontent.com/kastnerp/kastnerp.github.io/refs/heads/master/_pages/about.md
 https://raw.githubusercontent.com/kastnerp/kastnerp.github.io/refs/heads/*
+https://raw.githubusercontent.com/kastnerp/kastnerp.github.io/*
 ^https?://([a-zA-Z\d-]+\.)*linkedin\.com(/.*)?$
