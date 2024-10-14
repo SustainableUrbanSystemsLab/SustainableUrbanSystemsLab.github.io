@@ -9,7 +9,7 @@ I'm excited to share that I joined the Systems department at Cornell this past s
 
 From my own educational training, my most valuable learning experience came from building something tangible that solves a problem for other people; so the students were asked to use [#Streamlit](https://www.linkedin.com/feed/hashtag/?keywords=streamlit&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6935014542670278657) for all final project implementations in Python. Additionally, every team showcased their final project with a summary on [#Medium](https://www.linkedin.com/feed/hashtag/?keywords=medium&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6935014542670278657) to share it with a greater audience. All code is shared on Github for open access:
 
-[SYSEN-5160 Projects](https://cornellsystemsengineering.github.io/SYSEN-5160/)
+[SYSEN-5160 Projects](https://sustainableurbansystems.com/teaching/cu-sysen-5160/)
 
 Great job everyone and happy graduation: [Jamie Donahue](https://www.linkedin.com/in/ACoAAButtT4Bis912bSXf77WOqW0690n42gq_iE) [Sijie C.](https://www.linkedin.com/in/ACoAADetA0EBnZhcCOSfJ8IVf76CTTOs3csFrNY) [Fernando Celaya Oyón](https://www.linkedin.com/in/ACoAACsx72IBcgltN_GPyvOdM48TRKPGAnoIsqs) [Henry Harwood](https://www.linkedin.com/in/ACoAACJ_HcIBBh-pSO7BdlejeN1sZUJ4jTBI1y4) [Ronin Sharma](https://www.linkedin.com/in/ACoAACNQPtkBccnsuNrQI0sHJxa2VYXpUvNMtjU) [Sushant Gadgil](https://www.linkedin.com/in/ACoAAAuVIoMBAEsp77VLJpRLk2P8HzkgnlNTg0c) [Isabel Richter](https://www.linkedin.com/in/ACoAAB8erqcB5PxJ8mnm46ukHFzoaQndWPI3SfA) [Mariya Tasnim](https://www.linkedin.com/in/ACoAACxVUCoBMsOgoVN8I2AG91XdGDWstm6DWBE) [Xinzhu W.](https://www.linkedin.com/in/ACoAACad8IcBdhbQOBT7QFpIlLxY4OvApC8zkjo) (and all other students I am not connected with on LinkedIn).
 
