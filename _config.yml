@@ -10,6 +10,7 @@ email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Developing innovative decision-making tools for sustainable urban planning and design at Georgia Tech.
 footer_text: >
+  Design by <a href="https://siddharthdasari.com/">Siddharth Dasari</a>.
 keywords: georgia-tech, academic, lab, sustainability, architecture, decision-making, urban, stakeholders # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon_color/android-chrome-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
