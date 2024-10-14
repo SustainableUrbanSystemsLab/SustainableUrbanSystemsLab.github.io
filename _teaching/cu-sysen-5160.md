@@ -9,4 +9,4 @@ category: Cornell University
 
 A collection of links to Streamlit apps and Medium posts for the SYSEN 5160 final projects.
 
-{% remote_include https://raw.githubusercontent.com/CornellSystemsEngineering/SYSEN-5160/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/SustainableUrbanSystemsLab/SYSEN-5160/refs/heads/main/README.md %}
