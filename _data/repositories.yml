@@ -1,2 +1,10 @@
-github_users:
-  - kastnerp
+
+
+repo_description_lines_max: 3
+
+github_repos:
+  - SustainableUrbanSystemsLab/CP-IBPC2024-Humidity-Case
+  - SustainableUrbanSystemsLab/CP-IBPC2024-UMCF-Case
+  - SustainableUrbanSystemsLab/CP-SIGRADI2024-Assessing-Solar-Potential-of-Buildings-Using-LiDAR-and-Footprint-Data
+  - SustainableUrbanSystemsLab/CP-GNI2024-UWG
+  - SustainableUrbanSystemsLab/CP-GNI2024-Symposium-Enriching-geospatial-building-datasets
