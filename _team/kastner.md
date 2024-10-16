@@ -12,11 +12,4 @@ category: Director
 </div>
 
 
-{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/kastnerp/kastnerp.github.io/refs/heads/master/_pages/about.md %}{% endcapture %}
-{% assign lines = remote_content | split: '
-' %}
-{% for line in lines offset:18 %}
-{{ line }}
-{% endfor %}
-
-
+{% remote_include https://raw.githubusercontent.com/kastnerp/kastnerp/refs/heads/main/README.md %}
