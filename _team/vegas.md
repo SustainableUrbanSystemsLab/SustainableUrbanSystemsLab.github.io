@@ -7,12 +7,12 @@ importance: 1
 category: PhD
 ---
 
+Co-advisee together with [Prof. Sonit Bafna](https://arch.gatech.edu/people/sonit-bafna) and [Prof. John Peponis](https://arch.gatech.edu/people/john-peponis).
+
 <div class="profile"> 
 <img src="/assets/img/team/Vegas.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>
-
-Co-advisee together with [Prof. Sonit Bafna](https://arch.gatech.edu/people/sonit-bafna) and [Prof. John Peponis](https://arch.gatech.edu/people/john-peponis).
 
 Gonzalo Vegas is a Ph.D. student in architecture at the Georgia Tech Institute of Technology, and a GRA for the Georgia Tech Research Institute on the RISC unit. With a background on computational design, performance analysis, and digital fabrication, he focuses on developing tools to support decision-making processes of architects and urban designers.
 
