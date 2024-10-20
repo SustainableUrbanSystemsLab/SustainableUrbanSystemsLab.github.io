@@ -24,7 +24,7 @@ back_to_top: true # set to false to disable the back to top button
 # Adding a theme-aware logo
 logo:
   enabled: true
-  path: /assets/img/cd/sustainlab-logo-color.svg
+  path: /assets/img/favicon_color/android-chrome-512x512.png
 
 # -----------------------------------------------------------------------------
 # Theme
