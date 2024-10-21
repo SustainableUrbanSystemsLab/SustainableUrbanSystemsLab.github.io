@@ -33,3 +33,16 @@
 "reinhart":
   - firstname: ["Christoph", "C."]
     url: https://www.linkedin.com/in/christoph-reinhart-b16b8ba/
+
+"stone":
+  - firstname: ["Brian", "B."]
+    url: https://planning.gatech.edu/people/brian-stone
+
+"berardi":
+  - firstname: ["Umberto", "U."]
+    url: https://ca.linkedin.com/in/umberto-berardi-3b02958
+
+"vangelova":
+  - firstname: ["Silvia", "S."]
+    url: https://www.linkedin.com/in/silvia-vangelova-5ba9a4163
+
