@@ -9,7 +9,9 @@ nav_order: 9
 
 I appreciate your interest in working with me. I receive a fair number of inquiries from prospective students and have put together this page to provide more information.
 
-<center>**We seek students from all backgrounds.**</center>
+<div style="text-align: center; font-size: 16pt; font-weight: bold; font-style: italic;">
+  We seek students from all backgrounds.
+</div>
 <br><br>
 
 - If you are an architect or urban designer, you will learn data/technical skills to effectively apply your domain expertise to build modeling and decision-making tools.
