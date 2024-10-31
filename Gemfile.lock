@@ -265,6 +265,7 @@ DEPENDENCIES
   jekyll-regex-replace
   jekyll-scholar
   jekyll-sitemap
+  jekyll-remote-include
   jekyll-tabs
   jekyll-toc
   jekyll-twitter-plugin
