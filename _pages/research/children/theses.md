@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Theses
+title: Theses & Capstones
 permalink: /theses/
-description: A growing collection of completed theses that I advised or co-advised.
+description: A growing collection of completed theses in the lab.
 nav: false
 nav_order: 2
-display_categories: [BArch, MS]
+display_categories: [BArch, MS, Capstone]
 horizontal: true
 ---
 
