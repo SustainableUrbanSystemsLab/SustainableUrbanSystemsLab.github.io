@@ -163,3 +163,42 @@ html[data-theme-setting="light"] {
     content: url('/assets/img/cd/sustainlab-logo-wordmark-color-black.svg');
   }
 }
+
+/* System theme settings */
+html[data-theme-setting="system"] {
+  #light-toggle-system {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+}
+
+/* Handle system theme preferences */
+@media (prefers-color-scheme: dark) {
+  html[data-theme-setting="system"] {
+    .theme-aware-logo {
+      content: url('/assets/img/cd/sustainlab-logo-wordmark-color-white.svg');
+    }
+
+    #back-to-top {
+      color: var(--global-back-to-top-text-color);
+      background: var(--global-back-to-top-bg-color);
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html[data-theme-setting="system"] {
+    .theme-aware-logo {
+      content: url('/assets/img/cd/sustainlab-logo-wordmark-color-black.svg');
+    }
+  }
+}
