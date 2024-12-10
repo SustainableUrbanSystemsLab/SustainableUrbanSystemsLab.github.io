@@ -27,6 +27,6 @@ Before submitting an official GT application, you are welcome to reach out to me
 
 ### Student at GT
 
-If you are a current student at Georgia Tech and would like to join my group, I ask you to complete one semester in my [Vertically Integrated Project (VIP)](/teaching/gt-vip-vyh/).
+If you are a current student at Georgia Tech and would like to join my group, I ask you to complete one semester in my [Vertically Integrated Project (VIP)](/teaching/gt-vip-vyh/) before joining my lab.
 
-Please refer to the official VIP program information on how to join my VIP as an [undergraduate](https://vip.gatech.edu/apply-undergraduate-students) or [grad student](https://vip.gatech.edu/graduate-students). There are options to join the class as 1-3 credit hours, depending on your level of seniority at GT.
+Please refer to the official VIP program information on how to join my VIP as an [undergraduate](https://vip.gatech.edu/apply-undergraduate-students) or [grad student](https://vip.gatech.edu/graduate-students). There are options to join the class with 1-3 credit hours, depending on your level of seniority at GT.
