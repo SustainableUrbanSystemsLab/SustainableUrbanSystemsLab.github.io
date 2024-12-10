@@ -17,9 +17,10 @@ category: Georgia Tech
 
 [Learn more here](https://vip-smur.github.io/).
 
-<!-- {% capture remote_content %}{% remote_include https://raw.githubusercontent.com/VIP-SMUR/vip-smur.github.io/refs/heads/main/docs/index.md %}{% endcapture %} -->
+{% comment %}
+{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/VIP-SMUR/vip-smur.github.io/refs/heads/main/docs/index.md %}{% endcapture %} -->
 
-<!--
+
 {% capture content %}{% include file.md %}{% endcapture %}
 {% assign lines = content | split: '
 ' %}
@@ -65,6 +66,6 @@ category: Georgia Tech
     {{ line }}
   {% endif %}
 {% endfor %}
--->
+{% endcomment %}
 
 
