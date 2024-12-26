@@ -2,7 +2,7 @@
 layout: page
 title: Maryam Almaian
 description: MS in Architecture (High Performance Building)
-img: https://arch.gatech.edu/sites/default/files/2023-11/Almaian.jpeg
+img: # https://arch.gatech.edu/sites/default/files/2023-11/Almaian.jpeg
 importance: 1
 category: Alumni
 ---
@@ -12,4 +12,4 @@ category: Alumni
 </div>
 <br>
 
-After graduating from her MS in Architecture with a specialization in High Performance Building at Georgia Tech, Maryam went on to become a research associate at NREL.
+After graduating from her MS in Architecture with a [thesis](/projects/1_thesis.md) specialization in High Performance Building at Georgia Tech, Maryam accepted a position as a research associate at NREL.

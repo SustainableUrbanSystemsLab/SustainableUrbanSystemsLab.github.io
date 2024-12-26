@@ -7,9 +7,13 @@ importance: 1
 category: MS
 ---
 
-{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/kastnerp/MT-3D-Heat-Transfer-Analysis-in-Architectural-Modeling/main/README.md %}{% endcapture %}
+{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/SustainableUrbanSystemsLab/MT-3D-Heat-Transfer-Analysis-in-Architectural-Modeling/main/README.md %}{% endcapture %}
 {% assign lines = remote_content | split: '
 ' %}
 {% for line in lines offset:2 %}
 {{ line }}
 {% endfor %}
+
+## Source
+
+[Link](https://github.com/SustainableUrbanSystemsLab/MT-3D-Heat-Transfer-Analysis-in-Architectural-Modeling/) to the repository.

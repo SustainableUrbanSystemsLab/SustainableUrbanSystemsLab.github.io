@@ -2,7 +2,7 @@
 layout: page
 title: Influence of Vegetation Structure on Urban Microclimate
 description: Chinmay Rothe
-img: https://myoctocat.com/assets/images/base-octocat.svg
+img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate/refs/heads/main/Figures/GraphicalAbstract.gif
 importance: 1
 category: Capstone
 ---
@@ -13,3 +13,7 @@ category: Capstone
 {% for line in lines offset:2 %}
 {{ line }}
 {% endfor %}
+
+## Source
+
+[Link](https://github.com/SustainableUrbanSystemsLab/CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate/) to the repository.
