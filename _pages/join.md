@@ -21,9 +21,9 @@ You can start working with me in a number of ways, depending on whether you are 
 
 ### External to GT
 
-If you are external to GT and would like to join GT to work with me, I would encourage you to either apply for the [M.S. in Architecture](https://arch.gatech.edu/master-science-architecture) or the [Ph.D. in Architecture](https://arch.gatech.edu/phd-architecture). _Please note that admission decisions are made by a committee_---I, personally, _cannot_ admit you to one of our programs.
+If you are external to GT and would like to join GT to work with me, I would encourage you to either apply for the [M.S. in Architecture](https://arch.gatech.edu/master-science-architecture) or the [Ph.D. in Architecture](https://arch.gatech.edu/phd-architecture). _Please note that admission decisions are made by a committee_---I, personally, _cannot_ admit you to one of our programs. I am equally unable to judge the competitiveness of your application prior to the deadline as each application will be reviewed relative to all applications in the application pool.
 
-Before submitting an official GT application, you are welcome to reach out to me beforehand to make sure there is a fit. Instead of approaching me with a cover letter, please use [this form](https://forms.gle/YGa9cNqTumaREhF16) to get in touch with me.
+In addition to submitting an official GT application, you are welcome to provide me additional information via [this form](https://forms.gle/YGa9cNqTumaREhF16).
 
 ### Student at GT
 
