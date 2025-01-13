@@ -10,5 +10,6 @@ category: Alumni
 <div class="profile"> 
 <img src="https://arch.gatech.edu/sites/default/files/2023-11/Rothe.jpeg" class="img-fluid z-depth-1 rounded"/>
 </div>
+<br>
 
-Chinmay graduated from his MS in Architecture with a [capstone](/projects/1_capstone.md) specialization in High Performance Building.
+Chinmay graduated from his MS in Architecture with a [capstone](/projects/1_capstone) specialization in High Performance Building.

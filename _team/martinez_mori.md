@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dr. J. Carlos Martinez Mori
-description: PostDoc in ISyE at Georgia Tech
+description: PostDoc in ISyE at Georgia Tech; Schmidt Science Fellow
 img: https://jcmartinezmori.github.io/assets/img/prof_pic.jpg
 importance: 1
 category: Collaborators

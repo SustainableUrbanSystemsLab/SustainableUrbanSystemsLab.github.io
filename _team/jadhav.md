@@ -12,4 +12,4 @@ category: Alumni
 </div>
 
 
-Shruti graduated from her MS in Architecture with a [capstone](/projects/2_capstone.md) specialization in High Performance Building.
+Shruti graduated from her MS in Architecture with a [capstone](/projects/2_capstone) specialization in High Performance Building.
