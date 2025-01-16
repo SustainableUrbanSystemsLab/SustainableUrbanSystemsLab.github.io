@@ -23,7 +23,7 @@ You can find the initial preprint here: [A Gan-Based Surrogate Model for Instant
 
 If this piqued your interest, please come talk to me next week 5/15 01:15-02:45pm! 🏙️
 
-[More info, agenda, and lineup](https://datasciencecenter.cornell.edu/2023/03/20/data-driven-urban-tech-workshop)
+[More info, agenda, and lineup](https://datasciencecenter.cornell.edu/data-driven-urban-tech-workshop/)
 
 ---
 
