@@ -12,13 +12,11 @@ category: Collaborators
 </div>
 <br>
 
-
 {% capture remote_content %}{% remote_include https://raw.githubusercontent.com/jcmartinezmori/jcmartinezmori.github.io/refs/heads/master/_pages/about.md %}{% endcapture %}
 {% assign lines = remote_content | split: '
 ' %}
 {% for line in lines offset: 21 limit: 22 %}
 {{ line }}
 {% endfor %}
-
 
 [Link to Website](https://jcmartinezmori.github.io/)
