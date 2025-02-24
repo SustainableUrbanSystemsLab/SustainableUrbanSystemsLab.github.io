@@ -4,7 +4,7 @@ title: Jessica Hernandez
 description: Computer Science
 img: assets/img/team/Hernandez.jpg
 importance: 1
-category: BS
+category: MS
 ---
 
 <div class="profile"> 
