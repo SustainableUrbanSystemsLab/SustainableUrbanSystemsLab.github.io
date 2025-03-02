@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LiDAR data for enriching open geospatial building datasets
+title: LiDAR Data for Enriching Open Geospatial Building Datasets
 description: Silvia Vangelova
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/GNI-Symposium-Enriching-geospatial-building-datasets/main/Figures/GraphicalAbstract.jpg
 importance: 1

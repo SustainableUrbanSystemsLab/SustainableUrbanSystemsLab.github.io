@@ -2,10 +2,10 @@
 layout: page
 title: Theses & Capstones
 permalink: /theses/
-description: A growing collection of completed theses in the lab.
+description: A growing collection of completed work in the lab.
 nav: false
 nav_order: 2
-display_categories: [MS, Capstone, BArch]
+display_categories: [MS, Capstone, BArch, Abstract]
 horizontal: true
 ---
 
