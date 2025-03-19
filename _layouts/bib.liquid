@@ -192,9 +192,11 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
+      <!--
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
+      -->
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
@@ -284,8 +286,6 @@
                 data-arxiv-id="{{ entry.arxiv }}"
               {% elsif entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
-              {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
               {% elsif entry.pmid %}
                 data-pmid="{{ entry.pmid }}"
               {% elsif entry.isbn %}
@@ -298,9 +298,6 @@
               class="__dimensions_badge_embed__"
               {% if entry.dimensions != blank and entry.dimensions != 'true' %}
                 data-id="{{ entry.dimensions }}"
-              {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
-              {% else %}
                 data-pmid="{{ entry.pmid }}"
               {% endif %}
               data-style="small_rectangle"
