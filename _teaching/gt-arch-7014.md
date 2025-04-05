@@ -1,11 +1,13 @@
 ---
 layout: page
 title: ARCH 7014
-description: Urban Design Studio II — Downtown Doraville 2050
+description: Urban Design Studio II
 img:
 importance: 6
 category: Georgia Tech
 ---
+
+## Downtown Doraville 2050
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
