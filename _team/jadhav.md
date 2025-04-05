@@ -10,6 +10,8 @@ category: Alumni
 <div class="profile"> 
 <img src="/assets/img/team/Jadhav.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
+<br>
 
 
 Shruti graduated from her MS in Architecture with a [capstone](/projects/2_capstone) specialization in High Performance Building.
+After graduation, Shruti started as a Sustainability Consultant at [Thornton Tomasetti](https://www.thorntontomasetti.com/).
