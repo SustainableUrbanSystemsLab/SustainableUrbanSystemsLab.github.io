@@ -12,4 +12,4 @@ category: Alumni
 </div>
 <br>
 
-Chinmay graduated from his MS in Architecture with a [capstone](/projects/1_capstone) specialization in High Performance Building.
+Chinmay graduated from his MS in Architecture with a [capstone](/projects/1_capstone) specialization in High Performance Building. Chinmay started as an Architectural Designer at [NJRA Architects, Inc](https://njraarchitects.com/).
