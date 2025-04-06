@@ -7,10 +7,9 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile float-right"> 
 <img src="https://jcmartinezmori.github.io/assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
-<br>
 
 [Link to Website](https://jcmartinezmori.github.io/)
 
@@ -20,4 +19,3 @@ category: Collaborators
 {% for line in lines offset: 21 limit: 22 %}
 {{ line }}
 {% endfor %}
-

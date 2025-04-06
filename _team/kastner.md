@@ -11,5 +11,4 @@ category: Director
 <img src="/assets/img/team/Kastner.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-
 {% remote_include https://raw.githubusercontent.com/kastnerp/kastnerp/refs/heads/main/README.md %}
