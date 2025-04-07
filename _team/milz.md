@@ -15,11 +15,3 @@ category: Collaborators
 [Link to Website](https://milzj.github.io/)
 
 
-{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/milzj/milzj.github.io/refs/heads/master/_pages/about.md %}{% endcapture %}
-{% assign lines = remote_content | split: '
-' %}
-{% for line in lines offset: 19 limit: 10 %}
-{{ line }}
-{% endfor %}
-
-
