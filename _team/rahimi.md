@@ -7,7 +7,7 @@ importance: 1
 category: PhD
 ---
 
-Co-advisee together with [Prof. Miljana Horvat](https://www.torontomu.ca/architectural-science/people/faculty/miljana-horvat/) and [Prof. Umberto Berardi](https://sites.google.com/site/umbertoberardihomepage/).
+Co-advisee together with [Prof. Russell Richman](https://www.torontomu.ca/architectural-science/people/faculty/russell-richman/) and [Prof. Umberto Berardi](https://sites.google.com/site/umbertoberardihomepage/).
 
 <div class="profile float-right"> 
 <img src="/assets/img/team/Rahimi.jpg" class="img-fluid z-depth-1 rounded"/>
