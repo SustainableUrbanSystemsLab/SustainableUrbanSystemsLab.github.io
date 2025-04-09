@@ -14,5 +14,3 @@ Co-advisee together with [Prof. Thanos Economou](https://shape.gatech.edu/) (cha
 </div>
 
 {% remote_include https://raw.githubusercontent.com/SHIyichao98/SHIyichao98/refs/heads/main/README.md %}
-
-
