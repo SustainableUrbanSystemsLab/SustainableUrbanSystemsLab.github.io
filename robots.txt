@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sustainableurbansystemslab.github.io//sitemap.xml
+Sitemap: https://sustainableurbansystems.com//sitemap.xml
