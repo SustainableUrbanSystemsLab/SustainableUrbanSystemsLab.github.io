@@ -7,19 +7,13 @@ importance: 6
 category: Georgia Tech
 ---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/ARCH6242-1.png" title="ARCH6242_Teaser-1" class="img-fluid z-depth-1" %}
-    </div>
-    <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/ARCH6242-2.png" title="ARCH6242_Teaser-2" class="img-fluid z-depth-1" %}
-    </div>
-    <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/ARCH6242-3.png" title="ARCH6242_Teaser-3" class="img-fluid z-depth-1" %}
-    </div>
-</div>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-3.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
-_Excerpt of student work by [Sabontu Tuse (M.Arch. Georgia Tech Class of 2023)](https://www.linkedin.com/in/sabontu-tuse-317511120)_
+_Excerpt of student work by [Sabontu Tuse (M.Arch. Georgia Tech Class of 2023)](https://www.linkedin.com/in/sabontu-tuse-317511120)_.
 
 Buildings are crucial for societal well-being, but significantly impact energy use and emissions, accounting for about 40% of U.S. energy consumption and 38% of greenhouse gases. Meeting the U.S. Department of Energy's goal of reducing emissions by 28% requires integrating building performance evaluations into the very early stages of architectural design.
 
