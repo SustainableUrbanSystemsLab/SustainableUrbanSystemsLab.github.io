@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 {% remote_include https://raw.githubusercontent.com/SustainableUrbanSystemsLab/.github/refs/heads/main/profile/README.md %}
 
-
+[(More info)](/about_detailed)

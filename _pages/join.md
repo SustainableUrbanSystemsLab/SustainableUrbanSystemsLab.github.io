@@ -12,7 +12,7 @@ I appreciate your interest in working with me. I receive a fair number of inquir
 <div style="text-align: center; font-size: 16pt; font-weight: bold; font-style: italic;">
   We seek students from all backgrounds.
 </div>
-<br>
+<p style="margin:.5em;"></p>
 
 - If you are an architect or urban designer, you will learn data/technical skills to effectively apply your domain expertise and build modeling and decision-making tools.
 - If you are a coder or from a technical background, you will learn how your skills can help build tools to empower others to design and plan sustainable cities.
