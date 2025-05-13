@@ -10,3 +10,6 @@ category: BS
 <div class="profile"> 
 <img src="/assets/img/team/Mahajan.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
+<br>
+
+[Website](https://amahajan68.github.io/academic_cv/)
