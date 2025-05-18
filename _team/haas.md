@@ -11,12 +11,4 @@ category: Collaborators
 <img src="https://simtigrate.gatech.edu/sites/default/files/2024-01/card.ShalailaHaas.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-
-[Link to Website](https://shalailahaas.com/)
-
-{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/shalailahaas/shalailahaas.github.io/refs/heads/main/_pages/about.md %}{% endcapture %}
-{% assign lines = remote_content | split: '
-' %}
-{% for line in lines offset: 16 limit: 10 %}
-{{ line }}
-{% endfor %}
+{% remote_include https://raw.githubusercontent.com/shalailahaas/shalailahaas.github.io/refs/heads/main/_pages/about.md %}
