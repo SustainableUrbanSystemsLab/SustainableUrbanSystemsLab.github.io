@@ -8,7 +8,7 @@ category: BS
 ---
 
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="/assets/img/team/Li.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 

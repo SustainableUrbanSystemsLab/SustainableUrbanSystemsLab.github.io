@@ -7,7 +7,7 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="https://energy.gtri.gatech.edu/files/2023/11/gomez-paula_1-1.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>

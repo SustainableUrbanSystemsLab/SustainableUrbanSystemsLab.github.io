@@ -7,7 +7,7 @@ importance: 1
 category: BS
 ---
 
-<div class="profile float-right"> 
+<div class="profile mb-3 float-right mb-3"> 
 <img src="/assets/img/team/Beesen.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 

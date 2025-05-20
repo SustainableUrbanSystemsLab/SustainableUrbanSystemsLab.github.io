@@ -7,6 +7,6 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="https://perkinswill.com/wp-content/uploads/2020/02/Marshall_Tyrone_RESUME.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>

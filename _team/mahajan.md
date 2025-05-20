@@ -7,7 +7,7 @@ importance: 1
 category: BS
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="/assets/img/team/Mahajan.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>

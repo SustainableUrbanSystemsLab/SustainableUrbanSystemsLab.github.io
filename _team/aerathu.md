@@ -8,6 +8,6 @@ category: MS
 ---
 
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="/assets/img/team/Aerathu.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
