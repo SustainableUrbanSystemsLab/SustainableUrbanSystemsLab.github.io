@@ -2,12 +2,12 @@
 layout: page
 title: Dr. Graeme Troxell
 description: Postdoc at Colorado State University
-img: https://i1.rgstatic.net/ii/profile mb-3.image/636407353704450-1528742745508_Q512/Graeme-Troxell.jpg
+img: https://i1.rgstatic.net/ii/profile.image/636407353704450-1528742745508_Q512/Graeme-Troxell.jpg
 importance: 1
 category: Collaborators
 ---
 
 <div class="profile mb-3"> 
-<img src="https://i1.rgstatic.net/ii/profile mb-3.image/636407353704450-1528742745508_Q512/Graeme-Troxell.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="https://i1.rgstatic.net/ii/profile.image/636407353704450-1528742745508_Q512/Graeme-Troxell.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>
