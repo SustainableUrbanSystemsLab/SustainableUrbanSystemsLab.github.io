@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Krish Gupta
-description: Civil Engineering
+description: BS Civil Engineering
 img: assets/img/team/Gupta.jpg
 importance: 1
-category: BS
+category: Undergraduate
 ---
 
 <div class="profile mb-3"> 

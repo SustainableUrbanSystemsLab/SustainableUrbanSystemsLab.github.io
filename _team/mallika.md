@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Mallika Champaneria
-description: Architecture
+description: MArch Architecture
 img: https://avatars.githubusercontent.com/u/213637183?v=4
 importance: 1
-category: MArch
+category: Graduate
 ---
 
 <div class="profile mb-3 float-right mb-3"> 

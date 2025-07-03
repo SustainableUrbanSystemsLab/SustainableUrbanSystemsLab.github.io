@@ -4,7 +4,7 @@ title: Changda Ma
 description: MS in Architecture 
 img: assets/img/team/Ma.jpg
 importance: 1
-category: MS
+category: Graduate
 ---
 
 <div class="profile mb-3"> 

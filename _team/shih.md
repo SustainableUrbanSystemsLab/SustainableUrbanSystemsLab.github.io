@@ -4,7 +4,7 @@ title: Han-Syun (Benjamin) Shih
 description: MS in Architecture (High Performance Building)
 img: assets/img/team/Shih.jpg
 importance: 1
-category: MS
+category: Graduate
 ---
 
 <div class="profile mb-3"> 
