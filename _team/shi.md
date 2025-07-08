@@ -7,11 +7,10 @@ importance: 1
 category: PhD
 ---
 
-Co-advisee together with [Prof. Thanos Economou](https://shape.gatech.edu/).
+Co-advisee together with [Prof. Thanos Economou](https://shape.gatech.edu/) (chair).
 
-<div class="profile"> 
+<div class="profile mb-3 float-right mb-3"> 
 <img src="https://github.com/user-attachments/assets/84d21369-a7ac-4ee7-89b3-f48b8026feb9" class="img-fluid z-depth-1 rounded"/>
 </div>
-<br>
 
-
+{% remote_include https://raw.githubusercontent.com/SHIyichao98/SHIyichao98/refs/heads/main/README.md %}

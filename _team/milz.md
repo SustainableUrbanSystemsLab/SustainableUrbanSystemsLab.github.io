@@ -7,9 +7,11 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="https://milzj.github.io/assets/img/johannes-milz.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>
 
 [Link to Website](https://milzj.github.io/)
+
+

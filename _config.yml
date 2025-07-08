@@ -15,7 +15,7 @@ keywords: georgia-tech, academic, lab, sustainability, architecture, decision-ma
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon_color/android-chrome-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://sustainableurbansystemslab.github.io/ # the base hostname & protocol for your site
+url: https://sustainableurbansystems.com/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -90,7 +90,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: sustainable-urban-systems-lab # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -110,7 +110,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://sustainableurbansystemslab.github.io/ # work page URL
+work_url: # https://sustainableurbansystems.com/ # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username

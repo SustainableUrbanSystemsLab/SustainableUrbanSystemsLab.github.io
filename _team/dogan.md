@@ -7,7 +7,7 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="https://aap.cornell.edu/sites/default/files/styles/portrait-medium/public/person/prov-DSC_0263_2_270x270.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>

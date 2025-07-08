@@ -7,7 +7,7 @@ importance: 1
 category: Alumni
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="/assets/img/team/Vangelova.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ARCH 8833
-description: Integrated Building Systems 1
+description: Data-driven Methods for Design and Sustainability
 img:
 importance: 6
 category: Georgia Tech
 ---
 
-More info coming soon.
+{% remote_include https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833/refs/heads/main/README.md %}

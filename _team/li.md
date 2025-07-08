@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Jiayi Li
-description: Architecture
+description: BArch Architecture
 img:  assets/img/team/Li.jpg
 importance: 1
-category: BS
+category: Undergraduate
 ---
 
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="/assets/img/team/Li.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 

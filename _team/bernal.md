@@ -7,7 +7,7 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="https://i1.rgstatic.net/ii/profile.image/674577768267777-1537843281464_Q512/Marcelo-Bernal-2.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>
