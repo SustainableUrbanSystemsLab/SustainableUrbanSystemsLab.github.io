@@ -1,7 +1,7 @@
 ```yaml
 layout: post
 title: New Advances in Urban Microclimate Modeling
-date: 2025-07-10 13:56:00-0400
+date: 2025-07-10 14:05:00-0400
 inline: false
 ```
 
