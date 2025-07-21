@@ -7,7 +7,7 @@ nav: true
 nav_order: 9
 ---
 
-I appreciate your interest in working with me. I receive a fair number of inquiries from prospective students and have put together this page to provide more information.
+I appreciate your interest in working with me. I receive a fair number of inquiries from prospective students and put together this page to provide more information.
 
 <div style="text-align: center; font-size: 16pt; font-weight: bold; font-style: italic;">
   We seek students from all backgrounds.
