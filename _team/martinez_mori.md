@@ -7,7 +7,7 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile float-right"> 
+<div class="profile mb-3"> 
 <img src="https://jcmartinezmori.github.io/figures/jcmm.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
