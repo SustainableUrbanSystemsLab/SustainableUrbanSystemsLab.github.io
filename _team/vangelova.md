@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Silvia Vangelova
-description: OMS in Analytics (ISyE)
+description: # OMS in Analytics (ISyE)
 img:  # assets/img/team/Vangelova.jpg
 importance: 1
 category: Alumni

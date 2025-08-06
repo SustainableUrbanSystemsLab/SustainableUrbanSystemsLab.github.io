@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maryam Almaian
-description: PhD in Architecture
+description: PhD Student in Architecture
 img: https://arch.gatech.edu/sites/default/files/2023-11/Almaian.jpeg
 importance: 1
 category: PhD

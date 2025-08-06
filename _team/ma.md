@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Changda Ma
-description: MS in Architecture 
-img: assets/img/team/Ma.jpg
+description: # MS in Architecture 
+img: # assets/img/team/Ma.jpg
 importance: 1
-category: Graduate
+category: Alumni
 ---
 
 <div class="profile mb-3"> 

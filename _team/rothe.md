@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chinmay Rothe
-description: MS in Architecture (High Performance Building)
+description: # MS in Architecture (High Performance Building)
 img: # https://arch.gatech.edu/sites/default/files/2023-11/Rothe.jpeg
 importance: 1
 category: Alumni
