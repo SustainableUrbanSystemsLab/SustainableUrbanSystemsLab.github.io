@@ -7,8 +7,11 @@ importance: 1
 category: Undergraduate
 ---
 
-<div class="profile mb-3 float-right mb-3 mb-3 mb-3"> 
+<div class="profile float-right mb-3" style="min-height: 18rem;">
 <img src="https://avatars.githubusercontent.com/u/77560810?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
 {% remote_include https://raw.githubusercontent.com/JXU03l/JXU037/refs/heads/main/README.md %}
+
+
+
