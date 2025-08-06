@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Catherine Wallis
-description: BArch
+description: BArch Architecture
 img: https://avatars.githubusercontent.com/u/191314718?v=4
 importance: 1
 category: Undergraduate
