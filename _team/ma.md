@@ -2,7 +2,7 @@
 layout: page
 title: Changda Ma
 description: MS in Architecture 
-img: assets/img/team/Ma.jpg
+img: # assets/img/team/Ma.jpg
 importance: 1
 category: Alumni
 ---
