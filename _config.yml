@@ -206,7 +206,8 @@ collections:
     permalink: /teaching/:path/
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /:collection/:title/
+
 
 announcements:
   enabled: true
