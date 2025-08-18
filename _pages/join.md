@@ -17,7 +17,7 @@ I appreciate your interest in working with me. I receive a fair number of inquir
 - If you are an architect or urban designer, you will learn data/technical skills to effectively apply your domain expertise and build modeling and decision-making tools.
 - If you are a coder or from a technical background, you will learn how your skills can help build tools to empower others to design and plan sustainable cities.
 
-The students working with us typically go on to receive competitive offers at industry leaders such as Perkins&Will, Thornton Tomasetti and others, or go on to continue their academic journey at institutions such ETH Zurich, Cambridge University, NREL etc.
+After working with us, [our alumni](https://sustainableurbansystems.com/team/#alumni:~:text=Colorado%20State%20University-,Alumni,-Shruti%20Jadhav) typically go on to receive competitive offers at industry leaders such as Perkins&Will, Thornton Tomasetti and others, or go on to continue their academic journey at institutions such ETH Zurich, Cambridge University, NREL etc.
 
 You can start working with us in a number of ways, depending on whether you are a Georgia Tech (GT) student or external to GT.
 
