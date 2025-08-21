@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dr. Shalaila Haas
-description: Assistant Professor — Icahn School of Medicine at Mount Sinai
+description: Assistant Professor at Icahn School of Medicine at Mount Sinai
 img: https://simtigrate.gatech.edu/sites/default/files/2024-01/card.ShalailaHaas.jpg
 importance: 1
 category: Collaborators
