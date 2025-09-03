@@ -11,4 +11,4 @@ category: Graduate
 <img src="https://avatars.githubusercontent.com/u/85978465?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-{% remote_include https://raw.githubusercontent.com/yupengtang/yupentang/refs/heads/main/README.md %}
+<!--  remote_include https://raw.githubusercontent.com/yupengtang/yupentang/refs/heads/main/README.md %} -->

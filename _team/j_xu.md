@@ -11,7 +11,4 @@ category: Undergraduate
   <img src="https://avatars.githubusercontent.com/u/77560810?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-{% remote_include https://raw.githubusercontent.com/JXU03l/JXU037/refs/heads/main/README.md %}
-
-
-
+<!--  remote_include https://raw.githubusercontent.com/JXU03l/JXU037/refs/heads/main/README.md %} -->
