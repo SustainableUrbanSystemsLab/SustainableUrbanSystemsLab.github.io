@@ -5,7 +5,7 @@ date: 2025-09-07 16:12:00-0400
 inline: false
 ---
 
-Had a fantastic time at the Ecole d'Architecture de Marseille-Luminy workshop on the intensification of the Aix–Marseille transect. 
+We had a fantastic time at the Ecole d'Architecture de Marseille-Luminy workshop on the intensification of the Aix–Marseille transect. 
 
 Grateful for the exchange with Fabien Figueras and our students, and proud to share that our team earned a tied 3rd prize out of 13 teams with our project Métropo’Loop! 🙌
 
