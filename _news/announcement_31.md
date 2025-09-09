@@ -13,3 +13,4 @@ Congrats, Ze!
    path="assets/img/HPC_Summer_Institute.png" 
    title="Ze at HPC Summer Institute" 
    class="img-fluid z-depth-1" %}
+
