@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Shivam Patel
-description: BS Computer Science
-img: assets/img/team/Patel.jpg
+description: # BS Computer Science
+img: # assets/img/team/Patel.jpg
 importance: 1
-category: Undergraduate
+category: Alumni
 ---
 
 <div class="profile mb-3"> 

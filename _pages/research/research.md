@@ -10,7 +10,4 @@ children:
   - title: divider
   - title: Theses & Capstones
     permalink: /theses/
-  - title: divider
-  - title: Code
-    permalink: /code/
 ---
