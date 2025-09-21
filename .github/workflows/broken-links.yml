@@ -2,9 +2,7 @@ name: Check for broken links
 
 on:
   push:
-    branches:
-      - master
-      - main
+    branches: [master, main]
     paths:
       - "assets/**"
       - "**.html"
@@ -20,9 +18,7 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
   pull_request:
-    branches:
-      - master
-      - main
+    branches: [master, main]
     paths:
       - "assets/**"
       - "**.html"
@@ -48,5 +44,10 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: >-
+            --user-agent 'curl/7.54'
+            --no-progress --verbose
+            --exclude-path '(^|/)README\.md$'
+            --exclude-path '(^|/)_pages/(404|blog)\.md$'
+            --exclude-path '(^|/)_posts/(2018-12-22-distill|2023-04-24-videos)\.md$'
+            './**/*.md' './**/*.html'
