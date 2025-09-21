@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sina published again!
+title: Sina published in Building & Environment!
 date: 2025-09-19 14:25:00-0400
 inline: false
 ---

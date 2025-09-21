@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sina published again!
+title: Sina presented at CESBP2025 in Budapest!
 date: 2025-09-19 14:40:00-0400
 inline: false
 ---
