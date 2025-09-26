@@ -17,6 +17,4 @@ Please join us in welcoming Ilker to the lab! 🙌
 
 Photo courtesy of Han-Syun Shih.
 
-<div>
-    <iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7377191177776824320" height="922" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7377191176065519616" height="1006" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
