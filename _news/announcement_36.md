@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Dr. Ilker Karadag joined the lab as a visiting scientist!
+title: Dr. İlker Karadağ joined the lab as a visiting scientist!
 date: 2025-09-25 14:40:00-0400
 inline: false
 ---
 
-We’re excited to welcome Dr. ILKER KARADAG to our lab as a visiting scientist at the Georgia Tech School of Architecture!
+We’re excited to welcome Dr. İlker Karadağ to our lab as a visiting scientist at the Georgia Tech School of Architecture!
 
 Supported by a TÜBİTAK 2219 Fellowship, Ilker’s research focuses on applying machine learning to predict pedestrian-level wind conditions around buildings, advancing sustainable urban design and architectural aerodynamics.
 
