@@ -24,8 +24,9 @@ You can start working with us in a number of ways, depending on whether you are 
 ### External to GT
 
 If you are external to GT and would like to join GT to work with me, I would encourage you to either apply for the [M.S. in Architecture](https://arch.gatech.edu/master-science-architecture), the [Ph.D. in Architecture](https://arch.gatech.edu/phd-architecture), or a [Ph.D. Program with ISyE](https://www.isye.gatech.edu/academics/doctoral#degrees). Please note that admission decisions _are made by committees_—I, personally, _cannot_ admit you to any of our programs. I also _cannot_ assess how competitive your application will be before the deadline, as all applications are evaluated in comparison to the complete applicant pool.
-
 In addition to submitting an official GT application, you are welcome to provide me additional information via [this form](https://forms.gle/YGa9cNqTumaREhF16).
+
+We also offer opportunities for exchange students to complete your graduate thesis with us (no funding available at the moment). Please reach out about availabilities.
 
 ### Student at GT
 
