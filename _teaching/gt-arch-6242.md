@@ -17,7 +17,7 @@ The course structure includes weekly lectures and lab sessions. A combination of
 
 _Advanced proficiency in Rhino and Grasshopper is essential. Undergraduate students (ARCH 4833, CRN 93969) must have completed Media Modeling 2 (ARCH 2020) before registration. Graduate students without sufficient background must complete additional work at the semester's start or concurrently enroll in Media Modeling 2 to develop necessary skills. Faculty guidance will be provided during orientation._
 
-_Excerpt of student work by [Sabontu Tuse (M.Arch. Georgia Tech Class of 2023)](https://www.linkedin.com/in/sabontu-tuse-317511120)_.
+_Excerpt of student work by [Sabontu Tuse (M.Arch. Georgia Tech Class of 2023)](https://www.linkedin.com/in/sabontu-a-tuse-assoc-aia-noma-317511120/)_.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>

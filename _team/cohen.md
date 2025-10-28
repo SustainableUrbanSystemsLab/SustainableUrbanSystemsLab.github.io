@@ -2,7 +2,7 @@
 layout: page
 title: Joshua Cohen
 description: BS Civil Engineering
-img: assets/img/team/Cohen.jpg
+img: # assets/img/team/Cohen.jpg
 importance: 1
 category: Alumni
 ---
