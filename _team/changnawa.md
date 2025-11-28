@@ -3,8 +3,8 @@ layout: page
 title: Thanasarn Changnawa
 description: PhD Student in Architecture
 img: https://avatars.githubusercontent.com/u/137975914
-importance: 1
-category: PhD
+importance: 30
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3"> 

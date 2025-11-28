@@ -3,8 +3,8 @@ layout: page
 title: Hang Xu
 description: PhD Student in Architecture
 img: https://raw.githubusercontent.com/HangXXXu/Selfimage/refs/heads/main/image_1.png
-importance: 1
-category: PhD
+importance: 31
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3 mb-3 mb-3"> 

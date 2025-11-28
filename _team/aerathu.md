@@ -3,8 +3,8 @@ layout: page
 title: Joseph Aerathu
 description: MS in Architecture (High Performance Building)
 img: assets/img/team/Aerathu.jpg
-importance: 1
-category: Graduate
+importance: 40
+category: Lab
 ---
 
 

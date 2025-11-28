@@ -3,8 +3,8 @@ layout: page
 title: Marcelo Álvarez
 description: MS in Architecture (Design Computation)
 img: assets/img/team/Alvarez.jpg
-importance: 1
-category: Graduate
+importance: 41
+category: Lab
 ---
 
 <div class="profile mb-3"> 

@@ -3,8 +3,8 @@ layout: page
 title: Matthew Lim
 description: BS Computer Science
 img: https://avatars.githubusercontent.com/u/78234838?v=4
-importance: 1
-category: Undergraduate
+importance: 75
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3"> 

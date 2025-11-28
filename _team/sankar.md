@@ -3,8 +3,8 @@ layout: page
 title: Vishnu Sankar
 description: MS Computational Science and Engineering
 img: https://avatars.githubusercontent.com/u/80573003?v=4
-importance: 1
-category: Graduate
+importance: 52
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3"> 

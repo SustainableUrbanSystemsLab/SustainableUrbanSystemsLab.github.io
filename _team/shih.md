@@ -3,8 +3,8 @@ layout: page
 title: Han-Syun (Benjamin) Shih
 description: MS in Architecture (High Performance Building)
 img: assets/img/team/Shih.jpg
-importance: 1
-category: Graduate
+importance: 42
+category: Lab
 ---
 
 <div class="profile mb-3"> 

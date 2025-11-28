@@ -3,8 +3,8 @@ layout: page
 title: Devam Mondal
 description: BS Computer Science
 img: assets/img/team/Mondal.jpg
-importance: 1
-category: Undergraduate
+importance: 76
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3"> 
