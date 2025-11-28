@@ -5,7 +5,7 @@ title: Team
 description: Current and previous members of the lab
 nav: true
 nav_order: 6
-display_categories: [Director,  Visiting Scholar, PhD, Graduate, Undergraduate, Collaborators, Alumni]
+display_categories: [Lab, Collaborators, Alumni]
 horizontal: true
 ---
 
@@ -21,9 +21,9 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.liquid %}
+      {% include team_member.liquid %}
     {%- endfor %}
     </div>
   </div>
@@ -47,9 +47,9 @@ horizontal: true
 {% if page.horizontal -%}
 
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include team_member.liquid %}
     {%- endfor %}
     </div>
   </div>

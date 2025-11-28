@@ -4,7 +4,7 @@ title: Dr. Patrick Kastner
 description: Assistant Professor and Director of the Sustainable Urban Systems Lab at Georgia Tech.
 img: assets/img/team/Kastner.jpg
 importance: 1
-category: Director
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3"> 

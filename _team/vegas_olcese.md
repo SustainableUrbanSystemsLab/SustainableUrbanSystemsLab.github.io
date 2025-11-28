@@ -3,8 +3,8 @@ layout: page
 title: Gonzalo L. Vegas Olcese
 description: PhD Student in Architecture (co-advisee)
 img: assets/img/team/Vegas.jpg
-importance: 1
-category: PhD
+importance: 32
+category: Lab
 ---
 
 Co-advisee together with [Prof. Sonit Bafna](https://arch.gatech.edu/people/sonit-bafna) (chair) and [Prof. John Peponis](https://arch.gatech.edu/people/john-peponis).

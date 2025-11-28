@@ -3,8 +3,8 @@ layout: page
 title: Jessica Hernandez
 description: MS Computer Science
 img: assets/img/team/Hernandez.jpg
-importance: 1
-category: Graduate
+importance: 50
+category: Lab
 ---
 
 <div class="profile mb-3"> 

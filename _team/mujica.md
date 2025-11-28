@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sofia Mujica
-description: # BS in Mechanical Engineering
+description: BS in Mechanical Engineering
 img: # assets/img/team/Mujica.jpg
 importance: 1
 category: Alumni

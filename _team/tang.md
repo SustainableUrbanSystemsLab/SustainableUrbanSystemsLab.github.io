@@ -3,8 +3,8 @@ layout: page
 title: Yupeng Tang
 description: MS Computer Science
 img: https://avatars.githubusercontent.com/u/85978465?v=4
-importance: 1
-category: Graduate
+importance: 51
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3 mb-3 mb-3"> 

@@ -1,0 +1,23 @@
+<div class="col mb-4">
+  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}" style="text-decoration: none; color: inherit;">
+    <div class="card h-100 hoverable border-0 bg-transparent">
+      {% if project.img %}
+        <div class="text-center mt-3">
+            {%
+            include figure.liquid
+            loading="eager"
+            path=project.img
+            sizes = "150px"
+            alt="project thumbnail"
+            class="rounded-circle img-fluid z-depth-1"
+            style="width: 150px; height: 150px; object-fit: cover;"
+            %}
+        </div>
+      {% endif %}
+      <div class="card-body text-center p-2">
+        <h5 class="card-title mb-1">{{ project.title }}</h5>
+        <p class="card-text small text-muted">{{ project.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>

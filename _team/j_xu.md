@@ -3,8 +3,8 @@ layout: page
 title: Justin Xu
 description: BS Computer Science
 img: https://avatars.githubusercontent.com/u/77560810?v=4
-importance: 1
-category: Undergraduate
+importance: 73
+category: Lab
 ---
 
 <div class="profile float-right mb-3" style="min-height: 350px; overflow: hidden;">

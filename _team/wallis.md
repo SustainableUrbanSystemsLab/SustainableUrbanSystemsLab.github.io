@@ -3,8 +3,8 @@ layout: page
 title: Catherine Wallis
 description: BArch Architecture
 img: https://avatars.githubusercontent.com/u/191314718?v=4
-importance: 1
-category: Undergraduate
+importance: 71
+category: Lab
 ---
 
 <div class="profile mb-3 float-right mb-3 mb-3 mb-3"> 
