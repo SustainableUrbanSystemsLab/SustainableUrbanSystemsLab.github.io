@@ -1,1 +1,123 @@
-
+metadata:
+  last_updated: '2025-12-26'
+papers:
+  XNaNgkwAAAAJ:-f6ydRqryjwC:
+    citations: 3
+    title: 'OpenPyStruct: Open-source toolkit for machine learning-driven structural optimization'
+    year: '2025'
+  XNaNgkwAAAAJ:2osOgNQ5qMEC:
+    citations: 16
+    title: Predicting Space Usage by Multi-Objective Assessment of Outdoor Thermal Comfort around a University Campus
+    year: '2020'
+  XNaNgkwAAAAJ:4DMP91E08xMC:
+    citations: 2
+    title: 'Assessing the Complexity Required for Enhancing Eddy3D: Validation of urbanMicroclimateFoam for Urban Heat Island Mitigation'
+    year: '2024'
+  XNaNgkwAAAAJ:4TOpqqG69KYC:
+    citations: 14
+    title: 'Towards auto-calibrated UBEM Using readily available, underutilized urban data: A case study for Ithaca, NY'
+    year: '2024'
+  XNaNgkwAAAAJ:7PzlFSSx8tAC:
+    citations: 3
+    title: Impact and Cost Analysis of Thermal Load Electrification Measures Using Automated Urban Building Energy Modeling in Ithaca, NY
+    year: '2024'
+  XNaNgkwAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: '3D Heat Transfer Analysis in Architectural Modeling: A Case Study with OpenFOAM'
+    year: '2024'
+  XNaNgkwAAAAJ:9yKSN-GCB0IC:
+    citations: 15
+    title: Towards High-Resolution Annual Outdoor Thermal Comfort Mapping In Urban Design
+    year: '2019'
+  XNaNgkwAAAAJ:HDshCWvjkbEC:
+    citations: 0
+    title: 'Establishing a Fire Risk Map Based on Planned Spatial Layouts and Environment in Rural Planning: A Case Study of a Stereotype Village in China'
+    year: '2025'
+  XNaNgkwAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: How Much Computational Complexity is Necessary to Model Relevant Aspects in Microclimate Urban Physics?
+    year: '2024'
+  XNaNgkwAAAAJ:L8Ckcad2t8MC:
+    citations: 1
+    title: A Computational Framework For Assessing Solar Photovoltaic Potential of Buildings Based On Lidar and Building Footprint Data
+    year: '2024'
+  XNaNgkwAAAAJ:LkGwnXOMwfcC:
+    citations: 2
+    title: "Towards Safer Work Environments During the COVID-19 Crisis: A Study Of Different Floor Plan Layouts and Ventilation Strategies Coupling Open FOAM and Airborne Pathogen Data for \u2026"
+    year: '2021'
+  XNaNgkwAAAAJ:Se3iqnhoufwC:
+    citations: 74
+    title: 'Eddy3D: A toolkit for decoupled outdoor thermal comfort simulations in urban areas'
+    year: '2022'
+  XNaNgkwAAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: 'The influence of vegetation structure on urban microclimate: A CFD analysis of urban block and vegetation densities'
+    year: '2025'
+  XNaNgkwAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Fighting Hunger in the Digital Era
+    year: '2018'
+  XNaNgkwAAAAJ:UeHWp8X0CEIC:
+    citations: 73
+    title: 'From energy performative to livable Mediterranean cities: An annual outdoor thermal comfort and energy balance cross-climatic typological study'
+    year: '2020'
+  XNaNgkwAAAAJ:WF5omc3nYNoC:
+    citations: 33
+    title: Streamlined CFD simulation framework to generate wind-pressure coefficients on building facades for airflow network simulations
+    year: '2021'
+  XNaNgkwAAAAJ:Wp0gIr-vW9MC:
+    citations: 1
+    title: How Much Computational Complexity is Necessary to Model Relevant Aspects in Microclimate Urban Physics?
+    year: '2024'
+  XNaNgkwAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: A Decoupled Framework for Fast and High-resolution Simulations of Annual Outdoor Thermal Comfort
+    year: '2022'
+  XNaNgkwAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: 'Coupled urban physics in microclimate modeling: Validating and enhancing simulation tools'
+    year: '2025'
+  XNaNgkwAAAAJ:_kc_bZDykSQC:
+    citations: 77
+    title: A GAN-based surrogate model for instantaneous urban wind flow prediction
+    year: '2023'
+  XNaNgkwAAAAJ:d1gkVwhDpl0C:
+    citations: 55
+    title: A cylindrical meshing methodology for annual urban computational fluid dynamics simulations
+    year: '2019'
+  XNaNgkwAAAAJ:dhFuZR0502QC:
+    citations: 7
+    title: 'Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?'
+    year: '2025'
+  XNaNgkwAAAAJ:eQOLeE2rZwMC:
+    citations: 25
+    title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
+    year: '2021'
+  XNaNgkwAAAAJ:hFOr9nPyWt4C:
+    citations: 3
+    title: A bottom-up urban building energy model for evaluating thermal load electrification measures
+    year: '2025'
+  XNaNgkwAAAAJ:hqOjcs7Dif8C:
+    citations: 5
+    title: 'Customizing OpenFOAM to Assess Wind-Induced Natural Ventilation Potential of Classrooms: A Case Study for BRAC University'
+    year: '2016'
+  XNaNgkwAAAAJ:mB3voiENLucC:
+    citations: 0
+    title: Understand Urban Building Energy Consumption with Explainable Machine Learning Approaches
+    year: Unknown Year
+  XNaNgkwAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: Reimagining Chinese Garden Design
+    year: Unknown Year
+  XNaNgkwAAAAJ:qjMakFHDy7sC:
+    citations: 1
+    title: Solving Thermal Bridging Problems for Architectural Applications with OpenFOAM
+    year: '2020'
+  XNaNgkwAAAAJ:roLk4NBRz8UC:
+    citations: 38
+    title: Modeling outdoor thermal comfort along cycling routes at varying levels of physical accuracy to predict bike ridership in Cambridge, MA
+    year: '2022'
+  XNaNgkwAAAAJ:u5HHmVD_uO8C:
+    citations: 7
+    title: Streamlining Meshing Methodologies for Annual Urban CFD Simulations
+    year: '2018'
