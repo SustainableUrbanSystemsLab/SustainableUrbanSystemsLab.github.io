@@ -10,7 +10,7 @@ nav_order: 9
 I appreciate your interest in working with me. I receive a fair number of inquiries from prospective students and put together this page to provide more information.
 
 <div style="text-align: center; font-size: 16pt; font-weight: bold; font-style: italic;">
-  We seek students from all backgrounds.
+  We seek students from many backgrounds.
 </div>
 <p style="margin:.75em;"></p>
 
@@ -18,7 +18,6 @@ I appreciate your interest in working with me. I receive a fair number of inquir
 - If you are a coder or from a technical background, you will learn how your skills can help build tools to empower others to design and plan sustainable cities.
 
 After working with us, [our alumni](https://sustainableurbansystems.com/team/) typically go on to receive competitive offers at industry leaders such as Perkins&Will, Thornton Tomasetti and others, or go on to continue their academic journey at institutions such ETH Zurich, Cambridge University, NREL etc.
-
 You can start working with us in a number of ways, depending on whether you are a Georgia Tech (GT) student or external to GT.
 
 ### External to GT

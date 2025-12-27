@@ -10,3 +10,5 @@ assets/libs/
 node_modules/
 vendor
 .idea
+.venv
+bin/__pycache__/update_scholar_citations.cpython-314.pyc
