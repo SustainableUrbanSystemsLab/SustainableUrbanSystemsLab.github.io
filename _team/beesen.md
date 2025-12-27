@@ -2,9 +2,9 @@
 layout: page
 title: Atharva Beesen
 description: BS Computer Science
-img: assets/img/team/Beesen.jpg
+img: # assets/img/team/Beesen.jpg
 importance: 72
-category: Lab
+category: Alumni
 ---
 
 <div class="profile mb-3 float-right mb-3"> 
