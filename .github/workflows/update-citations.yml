@@ -47,17 +47,31 @@ jobs:
         shell: bash
         run: |
           set +e
-          echo "🚀 Running citation update script (single attempt)..."
-          start_time=$(date)
-          timeout 90 python bin/update_scholar_citations.py
-          status=$?
-          end_time=$(date)
-          if [ $status -eq 0 ]; then
-            echo "✅ Citation update succeeded (started at $start_time, ended at $end_time)."
-            echo "✅ Citation update succeeded." >> $GITHUB_STEP_SUMMARY
-          else
-            echo "❌ Citation update script failed with exit code $status (started at $start_time, ended at $end_time)."
-            echo "❌ Citation update script failed with exit code $status." >> $GITHUB_STEP_SUMMARY
+          max_attempts=2
+          attempt=1
+          status=1
+          while [ $attempt -le $max_attempts ]; do
+            echo "🚀 Attempt $attempt/$max_attempts: running citation update (timeout 180s)..."
+            start_time=$(date)
+            timeout 360 python bin/update_scholar_citations.py
+            status=$?
+            end_time=$(date)
+            if [ $status -eq 0 ]; then
+              echo "✅ Citation update succeeded on attempt $attempt (started at $start_time, ended at $end_time)."
+              echo "✅ Citation update succeeded." >> $GITHUB_STEP_SUMMARY
+              break
+            else
+              echo "❌ Citation update failed on attempt $attempt with exit code $status (started at $start_time, ended at $end_time)."
+              if [ $attempt -lt $max_attempts ]; then
+                echo "⏳ Retrying after brief pause..."
+                sleep 5
+              fi
+            fi
+            attempt=$((attempt+1))
+          done
+
+          if [ $status -ne 0 ]; then
+            echo "❌ Citation update script failed after $max_attempts attempt(s) with exit code $status." >> $GITHUB_STEP_SUMMARY
           fi
           set -e
 
