@@ -1,13 +1,13 @@
 ---
 layout: page
-title: PhD Thesis - Sina Rahimi (In Progress)
+title: PhD Thesis
 description: Sina Rahimi
-img: assets/img/theses/thesis_3.png
+img: 
 importance: 1
 category: PhD
 ---
 
-This PhD thesis is currently in progress. The repository will host materials and documentation as the research develops.
+This PhD defense is currently in scheduled for Jan 2026. The repository will host materials and documentation as the thesis gets accepted.
 
 ## Source
 
