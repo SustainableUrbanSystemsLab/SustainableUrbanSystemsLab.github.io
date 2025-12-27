@@ -7,4 +7,4 @@ inline: false
 
 The VIP SMUR team shared their Fall 2025 work, see below.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7408250047768788992" height="600" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:share:7408250047768788992" target="_blank" rel="noopener">View the LinkedIn post</a></p>
