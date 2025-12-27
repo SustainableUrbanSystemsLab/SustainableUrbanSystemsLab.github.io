@@ -14,9 +14,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
         with:
-          token: ${{ secrets.PAT }}
+          # Use PAT if provided, otherwise fall back to GitHub token so `act` runs cleanly.
+          token: ${{ secrets.PAT || github.token }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -92,6 +92,7 @@ jobs:
           echo "🔧 Git configured."
 
       - name: Commit and push if changed
+        if: ${{ !env.ACT }} # skip pushing when running under act
         run: |
           git add _data/citations.yml
           git diff --staged --quiet || (

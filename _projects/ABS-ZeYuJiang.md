@@ -3,7 +3,7 @@ layout: page
 title: A Comparative Study on the Urban Weather Generator
 description: Ze Yu Jiang
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/refs/heads/main/Figures/georgia_tech_map_with_tiles.png
-importance: 1
+importance: 20250302
 category: Abstract
 ---
 

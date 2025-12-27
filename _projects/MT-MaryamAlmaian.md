@@ -3,7 +3,7 @@ layout: page
 title: 3D Heat Transfer Analysis in Architectural Modeling
 description: Maryam Almaian
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/MT-MaryamAlmaian/main/LaTeX/Figures/newvalleg.png
-importance: 1
+importance: 20240421
 category: MS
 ---
 

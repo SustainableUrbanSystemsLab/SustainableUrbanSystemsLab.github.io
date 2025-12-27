@@ -3,7 +3,7 @@ layout: page
 title: Heat Equity Design Toolkit - Street-Tree Canopy for Pedestrian Comfort
 description: Shaiba Bano Siddiqui
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-ShaibaSiddiqui/refs/heads/main/GraphicalAbstract.jpg
-importance: 1
+importance: 20251215
 category: Capstone
 ---
 

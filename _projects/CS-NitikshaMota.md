@@ -3,7 +3,7 @@ layout: page
 title: Climate-Migration Readiness in Atlanta - Missing-Middle Housing
 description: Nitiksha Mota
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/refs/heads/main/GraphicalAbstract.png
-importance: 1
+importance: 20251214
 category: Capstone
 ---
 

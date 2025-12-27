@@ -3,7 +3,7 @@ layout: page
 title: Assessing Solar Potential of Buildings Using LiDAR and Footprint Data
 description: Silvia Vangelova
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CP-SIGRADI2024-Assessing-Solar-Potential-of-Buildings-Using-LiDAR-and-Footprint-Data/main/Resources/methods%20overview.jpg
-importance: 1
+importance: 20241008
 category: Capstone
 ---
 

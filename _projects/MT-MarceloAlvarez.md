@@ -3,7 +3,7 @@ layout: page
 title: Urban Microclimate Comparative Study - ENVI-met vs Outdoor+
 description: Marcelo Alvarez
 img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/MT-MarceloAlvarez/refs/heads/main/graph_abstract.png
-importance: 1
+importance: 20251003
 category: MS
 ---
 
