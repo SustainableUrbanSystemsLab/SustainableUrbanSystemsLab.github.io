@@ -1,6 +1,10 @@
 name: Update Google Scholar Citations
 
 on:
+
+  # Add this line to make it accessible to other workflows
+  workflow_call:
+
   schedule:
     - cron: "0 0 * * 1" # Monday
     - cron: "0 0 * * 3" # Wednesday
