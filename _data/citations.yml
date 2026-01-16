@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-16'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: 'Assessing the Complexity Required for Enhancing Eddy3D: Validation of urbanMicroclimateFoam for Urban Heat Island Mitigation'
     year: '2024'
   XNaNgkwAAAAJ:4TOpqqG69KYC:
-    citations: 14
+    citations: 15
     title: 'Towards auto-calibrated UBEM Using readily available, underutilized urban data: A case study for Ithaca, NY'
     year: '2024'
   XNaNgkwAAAAJ:7PzlFSSx8tAC:
@@ -42,7 +42,7 @@ papers:
     title: "Towards Safer Work Environments During the COVID-19 Crisis: A Study Of Different Floor Plan Layouts and Ventilation Strategies Coupling Open FOAM and Airborne Pathogen Data for \u2026"
     year: '2021'
   XNaNgkwAAAAJ:Se3iqnhoufwC:
-    citations: 74
+    citations: 76
     title: 'Eddy3D: A toolkit for decoupled outdoor thermal comfort simulations in urban areas'
     year: '2022'
   XNaNgkwAAAAJ:TQgYirikUcIC:
@@ -54,7 +54,7 @@ papers:
     title: Fighting Hunger in the Digital Era
     year: '2018'
   XNaNgkwAAAAJ:UeHWp8X0CEIC:
-    citations: 73
+    citations: 76
     title: 'From energy performative to livable Mediterranean cities: An annual outdoor thermal comfort and energy balance cross-climatic typological study'
     year: '2020'
   XNaNgkwAAAAJ:WF5omc3nYNoC:
@@ -74,7 +74,7 @@ papers:
     title: 'Coupled urban physics in microclimate modeling: Validating and enhancing simulation tools'
     year: '2025'
   XNaNgkwAAAAJ:_kc_bZDykSQC:
-    citations: 77
+    citations: 79
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
     year: '2023'
   XNaNgkwAAAAJ:d1gkVwhDpl0C:
@@ -110,7 +110,7 @@ papers:
     title: Solving Thermal Bridging Problems for Architectural Applications with OpenFOAM
     year: '2020'
   XNaNgkwAAAAJ:roLk4NBRz8UC:
-    citations: 38
+    citations: 39
     title: Modeling outdoor thermal comfort along cycling routes at varying levels of physical accuracy to predict bike ridership in Cambridge, MA
     year: '2022'
   XNaNgkwAAAAJ:u5HHmVD_uO8C:
