@@ -525,6 +525,13 @@ ninja.data = [{
           section: "Team",handler: () => {
               window.location.href = "/team/yang/";
             },},{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/sustainable-urban-systems-lab", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
