@@ -1,7 +1,11 @@
-REM Stop all running Docker containers
-FOR /f "tokens=*" %%i IN ('docker ps -q') DO docker stop %%i
+@echo off
+setlocal
 
-REM Serve Jekyll with bundler exec to resolve gem conflicts
+REM Stop only this project's containers
+docker compose down --remove-orphans
+
+REM Build the image so bundled gems match Gemfile.lock
+docker compose build
+
+REM Serve Jekyll locally
 docker compose up
-
-PAUSE
