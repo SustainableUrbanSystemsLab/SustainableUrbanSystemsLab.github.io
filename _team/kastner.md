@@ -7,7 +7,3 @@ github_readme: true
 importance: 1
 category: Lab
 ---
-
-<div class="profile mb-3 float-right mb-3"> 
-<img src="/assets/img/team/Kastner.jpg" class="img-fluid z-depth-1 rounded"/>
-</div>
