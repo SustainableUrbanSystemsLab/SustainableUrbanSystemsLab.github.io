@@ -1,5 +1,10 @@
-REM Stop all running Docker containers
-FOR /f "tokens=*" %%i IN ('docker ps -q') DO docker stop %%i
+@echo off
+setlocal
+
+REM Stop only this project's containers
+docker compose down --remove-orphans
+
+REM Pull latest base images, then build and serve
 docker compose pull
+docker compose build
 docker compose up
-PAUSE

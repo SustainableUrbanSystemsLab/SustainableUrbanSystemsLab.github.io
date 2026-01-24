@@ -344,6 +344,16 @@ ninja.data = [{
           description: "Director Design Process Lab at Perkins&amp;Will",
           section: "Team",handler: () => {
               window.location.href = "/team/bernal/";
+            },},{id: "team-aura-carroll",
+          title: 'Aura Carroll',
+          description: "BArch Architecture",
+          section: "Team",handler: () => {
+              window.location.href = "/team/carroll/";
+            },},{id: "team-mallika-champaneria",
+          title: 'Mallika Champaneria',
+          description: "MArch Architecture",
+          section: "Team",handler: () => {
+              window.location.href = "/team/champaneria/";
             },},{id: "team-thanasarn-changnawa",
           title: 'Thanasarn Changnawa',
           description: "PhD Student in Architecture",
@@ -351,7 +361,7 @@ ninja.data = [{
               window.location.href = "/team/changnawa/";
             },},{id: "team-joshua-cohen",
           title: 'Joshua Cohen',
-          description: "",
+          description: "BS Civil Engineering",
           section: "Team",handler: () => {
               window.location.href = "/team/cohen/";
             },},{id: "team-mason-dewitt",
@@ -364,9 +374,9 @@ ninja.data = [{
           description: "Associate Professor at Cornell University",
           section: "Team",handler: () => {
               window.location.href = "/team/dogan/";
-            },},{id: "team-dr-paula-gomez",
-          title: 'Dr. Paula Gomez',
-          description: "Senior Research Engineer at Georgia Tech Research Institute",
+            },},{id: "team-dr-paula-gómez",
+          title: 'Dr. Paula Gómez',
+          description: "Principal Research Engineer at Georgia Tech Research Institute",
           section: "Team",handler: () => {
               window.location.href = "/team/gomez/";
             },},{id: "team-hang-xu",
@@ -379,6 +389,11 @@ ninja.data = [{
           description: "Assistant Professor at Icahn School of Medicine at Mount Sinai",
           section: "Team",handler: () => {
               window.location.href = "/team/haas/";
+            },},{id: "team-aiko-hayashi",
+          title: 'Aiko Hayashi',
+          description: "BArch Architecture",
+          section: "Team",handler: () => {
+              window.location.href = "/team/hayashi/";
             },},{id: "team-jessica-hernandez",
           title: 'Jessica Hernandez',
           description: "MS Computer Science",
@@ -434,11 +449,6 @@ ninja.data = [{
           description: "BS Computer Science",
           section: "Team",handler: () => {
               window.location.href = "/team/mahajan/";
-            },},{id: "team-mallika-champaneria",
-          title: 'Mallika Champaneria',
-          description: "MArch Architecture",
-          section: "Team",handler: () => {
-              window.location.href = "/team/mallika/";
             },},{id: "team-tyrone-marshall",
           title: 'Tyrone Marshall',
           description: "Senior Computational Designer at Perkins &amp; WillCo-Director of the Energy Lab at Perkins &amp; WillSenior Lecturer, Georgia Tech",
@@ -499,6 +509,11 @@ ninja.data = [{
           description: "MS Computer Science",
           section: "Team",handler: () => {
               window.location.href = "/team/tang/";
+            },},{id: "team-arthur-thach",
+          title: 'Arthur Thach',
+          description: "MS Computer Science",
+          section: "Team",handler: () => {
+              window.location.href = "/team/thach/";
             },},{id: "team-dr-graeme-troxell",
           title: 'Dr. Graeme Troxell',
           description: "Postdoc at Colorado State University",
