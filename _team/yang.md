@@ -7,8 +7,9 @@ importance: 1
 category: Collaborators
 ---
 
-<div class="profile"> 
+<div class="profile mb-3"> 
 <img src="https://avatars.githubusercontent.com/u/47015598?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
+<br>
 
 [Link to Website](https://yangyang.page/about.html)

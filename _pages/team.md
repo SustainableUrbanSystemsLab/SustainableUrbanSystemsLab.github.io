@@ -5,7 +5,7 @@ title: Team
 description: Current and previous members of the lab
 nav: true
 nav_order: 6
-display_categories: [Lab, Collaborators, Alumni]
+display_categories: [Lab, Collaborators, PhD Alumni, Alumni]
 horizontal: true
 ---
 

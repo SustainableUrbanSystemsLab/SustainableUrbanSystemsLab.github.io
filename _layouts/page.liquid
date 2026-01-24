@@ -8,6 +8,28 @@ layout: default
   </style>
 {% endif %}
 
+{% assign is_team_page = false %}
+{% if page.collection == "team" %}
+  {% assign is_team_page = true %}
+{% elsif page.path and page.path contains "_team/" %}
+  {% assign is_team_page = true %}
+{% endif %}
+
+{% assign profile_image_url = nil %}
+{% assign profile_image_path = nil %}
+{% if is_team_page %}
+  {% if page.github %}
+    {% assign github_handle = page.github | replace: "@", "" %}
+    {% assign profile_image_url = "https://avatars.githubusercontent.com/" | append: github_handle | append: "?s=400" %}
+  {% elsif page.img %}
+    {% if page.img contains "://" %}
+      {% assign profile_image_url = page.img %}
+    {% else %}
+      {% assign profile_image_path = page.img %}
+    {% endif %}
+  {% endif %}
+{% endif %}
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -15,7 +37,31 @@ layout: default
   </header>
 
   <article>
+    {% if is_team_page %}
+      {% if profile_image_url or profile_image_path %}
+        {% unless content contains 'profile mb-3' %}
+          <div class="profile mb-3 float-right mb-3">
+            <img src="{% if profile_image_url %}{{ profile_image_url }}{% else %}{{ profile_image_path | relative_url }}{% endif %}" class="img-fluid z-depth-1 rounded"/>
+          </div>
+        {% endunless %}
+      {% endif %}
+    {% endif %}
     {{ content }}
+    {% if is_team_page and page.github and page.github_readme != false %}
+      {% assign raw_content = page.content | default: "" %}
+      {% assign has_manual_readme = false %}
+      {% if raw_content contains "remote_include" %}
+        {% assign has_manual_readme = true %}
+      {% endif %}
+      {% if raw_content contains "github_profile_readme" %}
+        {% assign has_manual_readme = true %}
+      {% endif %}
+      {% unless has_manual_readme %}
+        {% assign readme_offset = page.github_readme_offset | default: 0 %}
+        {% assign readme_limit = page.github_readme_limit | default: 100 %}
+        {% include github_profile_readme.liquid github=page.github offset=readme_offset limit=readme_limit %}
+      {% endunless %}
+    {% endif %}
   </article>
 
   {% if page.related_publications %}
