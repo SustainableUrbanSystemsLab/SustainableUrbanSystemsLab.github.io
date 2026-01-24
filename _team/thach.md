@@ -3,7 +3,7 @@ layout: page
 title: Arthur Thach
 description: MS Computer Science
 img: https://avatars.githubusercontent.com/u/109921292?v=4
-importance: 73
+importance: 44
 category: Lab
 ---
 
