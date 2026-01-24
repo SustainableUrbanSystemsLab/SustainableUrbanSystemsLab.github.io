@@ -3,7 +3,7 @@ layout: page
 title: Mallika Champaneria
 description: MArch Architecture
 img: # https://avatars.githubusercontent.com/u/213637183?v=4
-importance: 43
+importance: 50
 category: Alumni
 ---
 
