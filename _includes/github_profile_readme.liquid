@@ -1,0 +1,8 @@
+{% assign readme_offset = include.offset | default: 0 %}
+{% assign readme_limit = include.limit | default: 100 %}
+{% assign readme_content = include.github | github_profile_readme: readme_offset, readme_limit %}
+{% if readme_content and readme_content != "" %}
+  <div class="github-readme mt-4">
+    {{ readme_content | markdownify }}
+  </div>
+{% endif %}

@@ -1,17 +1,42 @@
 <div class="col mb-4">
+  {% assign avatar_url = nil %}
+  {% assign avatar_path = nil %}
+  {% if project.github %}
+    {% assign github_handle = project.github | replace: "@", "" %}
+    {% assign avatar_url = "https://avatars.githubusercontent.com/" | append: github_handle | append: "?s=200" %}
+  {% elsif project.img %}
+    {% if project.img contains "://" %}
+      {% assign avatar_url = project.img %}
+    {% else %}
+      {% assign avatar_path = project.img %}
+    {% endif %}
+  {% endif %}
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}" style="text-decoration: none; color: inherit;">
     <div class="card h-100 hoverable border-0 bg-transparent">
-      {% if project.img %}
+      {% if avatar_url or avatar_path %}
         <div class="text-center mt-3">
-            {%
-            include figure.liquid
-            loading="eager"
-            path=project.img
-            sizes = "150px"
-            alt="project thumbnail"
-            class="rounded-circle img-fluid z-depth-1"
-            style="width: 150px; height: 150px; object-fit: cover;"
-            %}
+            {% if avatar_url %}
+              {%
+              include figure.liquid
+              loading="eager"
+              url=avatar_url
+              sizes = "150px"
+              alt="project thumbnail"
+              class="rounded-circle img-fluid z-depth-1"
+              style="width: 150px; height: 150px; object-fit: cover;"
+              avoid_scaling=true
+              %}
+            {% else %}
+              {%
+              include figure.liquid
+              loading="eager"
+              path=avatar_path
+              sizes = "150px"
+              alt="project thumbnail"
+              class="rounded-circle img-fluid z-depth-1"
+              style="width: 150px; height: 150px; object-fit: cover;"
+              %}
+            {% endif %}
         </div>
       {% endif %}
       <div class="card-body text-center p-2">
