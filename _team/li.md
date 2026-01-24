@@ -4,7 +4,7 @@ title: Jiayi Li
 description: BArch Architecture
 img:  assets/img/team/Li.jpg
 importance: 70
-category: Lab
+category: Alumni
 ---
 
 
