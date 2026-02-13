@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-13'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 3
-    title: 'OpenPyStruct: Open-source toolkit for machine learning-driven structural optimization'
-    year: '2025'
+    title: 'OpenPyStruct: Open-Source Toolkit for Machine Learning-Driven Structural Optimization'
+    year: Unknown Year
   XNaNgkwAAAAJ:2osOgNQ5qMEC:
     citations: 16
     title: Predicting Space Usage by Multi-Objective Assessment of Outdoor Thermal Comfort around a University Campus
     year: '2020'
   XNaNgkwAAAAJ:4DMP91E08xMC:
-    citations: 2
+    citations: 1
     title: 'Assessing the Complexity Required for Enhancing Eddy3D: Validation of urbanMicroclimateFoam for Urban Heat Island Mitigation'
     year: '2024'
   XNaNgkwAAAAJ:4TOpqqG69KYC:
-    citations: 15
+    citations: 16
     title: 'Towards auto-calibrated UBEM Using readily available, underutilized urban data: A case study for Ithaca, NY'
     year: '2024'
   XNaNgkwAAAAJ:7PzlFSSx8tAC:
@@ -54,7 +54,7 @@ papers:
     title: Fighting Hunger in the Digital Era
     year: '2018'
   XNaNgkwAAAAJ:UeHWp8X0CEIC:
-    citations: 77
+    citations: 76
     title: 'From energy performative to livable Mediterranean cities: An annual outdoor thermal comfort and energy balance cross-climatic typological study'
     year: '2020'
   XNaNgkwAAAAJ:WF5omc3nYNoC:
@@ -71,18 +71,18 @@ papers:
     year: '2022'
   XNaNgkwAAAAJ:ZeXyd9-uunAC:
     citations: 0
-    title: 'Coupled urban physics in microclimate modeling: Validating and enhancing simulation tools'
-    year: '2025'
+    title: 'Coupled Urban Physics in Microclimate Modeling: Validating and Enhancing Simulation Tools'
+    year: Unknown Year
   XNaNgkwAAAAJ:_kc_bZDykSQC:
-    citations: 81
+    citations: 82
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
     year: '2023'
   XNaNgkwAAAAJ:d1gkVwhDpl0C:
-    citations: 56
+    citations: 55
     title: A cylindrical meshing methodology for annual urban computational fluid dynamics simulations
     year: '2019'
   XNaNgkwAAAAJ:dhFuZR0502QC:
-    citations: 8
+    citations: 9
     title: 'Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?'
     year: '2025'
   XNaNgkwAAAAJ:eQOLeE2rZwMC:
@@ -106,7 +106,7 @@ papers:
     title: Reimagining Chinese Garden Design
     year: Unknown Year
   XNaNgkwAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: Solving Thermal Bridging Problems for Architectural Applications with OpenFOAM
     year: '2020'
   XNaNgkwAAAAJ:roLk4NBRz8UC:
