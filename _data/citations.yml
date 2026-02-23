@@ -1,32 +1,32 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-23'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 3
-    title: 'OpenPyStruct: Open-Source Toolkit for Machine Learning-Driven Structural Optimization'
-    year: Unknown Year
+    title: 'OpenPyStruct: Open-source toolkit for machine learning-driven structural optimization'
+    year: '2025'
   XNaNgkwAAAAJ:2osOgNQ5qMEC:
     citations: 16
     title: Predicting Space Usage by Multi-Objective Assessment of Outdoor Thermal Comfort around a University Campus
     year: '2020'
   XNaNgkwAAAAJ:4DMP91E08xMC:
-    citations: 1
+    citations: 2
     title: 'Assessing the Complexity Required for Enhancing Eddy3D: Validation of urbanMicroclimateFoam for Urban Heat Island Mitigation'
     year: '2024'
   XNaNgkwAAAAJ:4TOpqqG69KYC:
     citations: 16
-    title: 'Towards auto-calibrated UBEM Using readily available, underutilized urban data: A case study for Ithaca, NY'
+    title: 'Towards auto-calibrated UBEM using readily available, underutilized urban data: a case study for Ithaca, NY'
     year: '2024'
   XNaNgkwAAAAJ:7PzlFSSx8tAC:
     citations: 3
-    title: Impact and Cost Analysis of Thermal Load Electrification Measures Using Automated Urban Building Energy Modeling in Ithaca, NY
+    title: Impact and Cost Analysis of Thermal Load Electrification Measures using Automated Urban Building Energy Modeling in Ithaca, NY
     year: '2024'
   XNaNgkwAAAAJ:9ZlFYXVOiuMC:
     citations: 0
-    title: '3D Heat Transfer Analysis in Architectural Modeling: A Case Study with OpenFOAM'
+    title: '3d heat transfer analysis in architectural modeling: A case study with openfoam'
     year: '2024'
   XNaNgkwAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 14
     title: Towards High-Resolution Annual Outdoor Thermal Comfort Mapping In Urban Design
     year: '2019'
   XNaNgkwAAAAJ:IWHjjKOFINEC:
@@ -42,7 +42,7 @@ papers:
     title: "Towards Safer Work Environments During the COVID-19 Crisis: A Study Of Different Floor Plan Layouts and Ventilation Strategies Coupling Open FOAM and Airborne Pathogen Data for \u2026"
     year: '2021'
   XNaNgkwAAAAJ:Se3iqnhoufwC:
-    citations: 77
+    citations: 80
     title: 'Eddy3D: A toolkit for decoupled outdoor thermal comfort simulations in urban areas'
     year: '2022'
   XNaNgkwAAAAJ:TQgYirikUcIC:
@@ -58,12 +58,12 @@ papers:
     title: 'From energy performative to livable Mediterranean cities: An annual outdoor thermal comfort and energy balance cross-climatic typological study'
     year: '2020'
   XNaNgkwAAAAJ:WF5omc3nYNoC:
-    citations: 35
+    citations: 36
     title: Streamlined CFD simulation framework to generate wind-pressure coefficients on building facades for airflow network simulations
     year: '2021'
   XNaNgkwAAAAJ:Wp0gIr-vW9MC:
     citations: 2
-    title: How Much Computational Complexity is Necessary to Model Relevant Aspects in Microclimate Urban Physics?
+    title: How much computational complexity is necessary to model relevant aspects in microclimate urban physics?
     year: '2024'
   XNaNgkwAAAAJ:YOwf2qJgpHMC:
     citations: 0
@@ -71,8 +71,8 @@ papers:
     year: '2022'
   XNaNgkwAAAAJ:ZeXyd9-uunAC:
     citations: 0
-    title: 'Coupled Urban Physics in Microclimate Modeling: Validating and Enhancing Simulation Tools'
-    year: Unknown Year
+    title: 'Coupled urban physics in microclimate modeling: Validating and enhancing simulation tools'
+    year: '2025'
   XNaNgkwAAAAJ:_kc_bZDykSQC:
     citations: 82
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
@@ -82,15 +82,15 @@ papers:
     title: A cylindrical meshing methodology for annual urban computational fluid dynamics simulations
     year: '2019'
   XNaNgkwAAAAJ:dhFuZR0502QC:
-    citations: 9
+    citations: 11
     title: 'Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?'
     year: '2025'
   XNaNgkwAAAAJ:eQOLeE2rZwMC:
-    citations: 25
+    citations: 23
     title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
     year: '2021'
   XNaNgkwAAAAJ:hFOr9nPyWt4C:
-    citations: 3
+    citations: 4
     title: A bottom-up urban building energy model for evaluating thermal load electrification measures
     year: '2025'
   XNaNgkwAAAAJ:hqOjcs7Dif8C:
