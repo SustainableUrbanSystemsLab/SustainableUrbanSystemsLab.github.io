@@ -12,4 +12,7 @@ category: Alumni
 <img src="/assets/img/team/Li.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
+
+Jiayi worked on [energy modeling](https://vip-smur.github.io/25fa-energyinbuildings/) for several semesters and will continue her MS in Civil and Environmental Engineering at Stanford University after her graduation!
+
 <!-- https://raw.githubusercontent.com/Volosh1n/github-avatar-generator/refs/heads/master/examples/image.png -->
