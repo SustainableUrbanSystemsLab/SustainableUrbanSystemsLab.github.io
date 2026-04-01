@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-01'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -46,7 +46,7 @@ papers:
     title: "Towards Safer Work Environments During the COVID-19 Crisis: A Study Of Different Floor Plan Layouts and Ventilation Strategies Coupling Open FOAM and Airborne Pathogen Data for \u2026"
     year: '2021'
   XNaNgkwAAAAJ:Se3iqnhoufwC:
-    citations: 82
+    citations: 83
     title: 'Eddy3D: A toolkit for decoupled outdoor thermal comfort simulations in urban areas'
     year: '2022'
   XNaNgkwAAAAJ:TQgYirikUcIC:
@@ -62,7 +62,7 @@ papers:
     title: 'From energy performative to livable Mediterranean cities: An annual outdoor thermal comfort and energy balance cross-climatic typological study'
     year: '2020'
   XNaNgkwAAAAJ:WF5omc3nYNoC:
-    citations: 37
+    citations: 38
     title: Streamlined CFD simulation framework to generate wind-pressure coefficients on building facades for airflow network simulations
     year: '2021'
   XNaNgkwAAAAJ:Wp0gIr-vW9MC:
@@ -74,7 +74,7 @@ papers:
     title: A Decoupled Framework for Fast and High-resolution Simulations of Annual Outdoor Thermal Comfort
     year: '2022'
   XNaNgkwAAAAJ:ZeXyd9-uunAC:
-    citations: 1
+    citations: 3
     title: 'Coupled urban physics in microclimate modeling: Validating and enhancing simulation tools'
     year: '2025'
   XNaNgkwAAAAJ:_Qo2XoVZTnwC:
@@ -82,7 +82,7 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2026'
   XNaNgkwAAAAJ:_kc_bZDykSQC:
-    citations: 92
+    citations: 95
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
     year: '2023'
   XNaNgkwAAAAJ:d1gkVwhDpl0C:
@@ -90,7 +90,7 @@ papers:
     title: A cylindrical meshing methodology for annual urban computational fluid dynamics simulations
     year: '2019'
   XNaNgkwAAAAJ:dhFuZR0502QC:
-    citations: 13
+    citations: 14
     title: 'Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?'
     year: '2025'
   XNaNgkwAAAAJ:e5wmG9Sq2KIC:
@@ -98,7 +98,7 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2025'
   XNaNgkwAAAAJ:eQOLeE2rZwMC:
-    citations: 23
+    citations: 24
     title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
     year: '2021'
   XNaNgkwAAAAJ:hFOr9nPyWt4C:
@@ -122,7 +122,7 @@ papers:
     title: Solving Thermal Bridging Problems for Architectural Applications with OpenFOAM
     year: '2020'
   XNaNgkwAAAAJ:roLk4NBRz8UC:
-    citations: 40
+    citations: 41
     title: Modeling outdoor thermal comfort along cycling routes at varying levels of physical accuracy to predict bike ridership in Cambridge, MA
     year: '2022'
   XNaNgkwAAAAJ:u5HHmVD_uO8C:
