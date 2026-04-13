@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-13'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -46,7 +46,7 @@ papers:
     title: "Towards Safer Work Environments During the COVID-19 Crisis: A Study Of Different Floor Plan Layouts and Ventilation Strategies Coupling Open FOAM and Airborne Pathogen Data for \u2026"
     year: '2021'
   XNaNgkwAAAAJ:Se3iqnhoufwC:
-    citations: 83
+    citations: 85
     title: 'Eddy3D: A toolkit for decoupled outdoor thermal comfort simulations in urban areas'
     year: '2022'
   XNaNgkwAAAAJ:TQgYirikUcIC:
@@ -82,15 +82,15 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2026'
   XNaNgkwAAAAJ:_kc_bZDykSQC:
-    citations: 95
+    citations: 98
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
     year: '2023'
   XNaNgkwAAAAJ:d1gkVwhDpl0C:
-    citations: 55
+    citations: 56
     title: A cylindrical meshing methodology for annual urban computational fluid dynamics simulations
     year: '2019'
   XNaNgkwAAAAJ:dhFuZR0502QC:
-    citations: 14
+    citations: 15
     title: 'Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?'
     year: '2025'
   XNaNgkwAAAAJ:e5wmG9Sq2KIC:
@@ -98,7 +98,7 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2025'
   XNaNgkwAAAAJ:eQOLeE2rZwMC:
-    citations: 24
+    citations: 26
     title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
     year: '2021'
   XNaNgkwAAAAJ:hFOr9nPyWt4C:
@@ -109,6 +109,10 @@ papers:
     citations: 5
     title: 'Customizing OpenFOAM to Assess Wind-Induced Natural Ventilation Potential of Classrooms: A Case Study for BRAC University'
     year: '2016'
+  XNaNgkwAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: 'Machine Learning for Urban Wind Simulation: A Comprehensive Review'
+    year: '2026'
   XNaNgkwAAAAJ:mB3voiENLucC:
     citations: 0
     title: Understand Urban Building Energy Consumption with Explainable Machine Learning Approaches
@@ -122,7 +126,7 @@ papers:
     title: Solving Thermal Bridging Problems for Architectural Applications with OpenFOAM
     year: '2020'
   XNaNgkwAAAAJ:roLk4NBRz8UC:
-    citations: 41
+    citations: 42
     title: Modeling outdoor thermal comfort along cycling routes at varying levels of physical accuracy to predict bike ridership in Cambridge, MA
     year: '2022'
   XNaNgkwAAAAJ:u5HHmVD_uO8C:
