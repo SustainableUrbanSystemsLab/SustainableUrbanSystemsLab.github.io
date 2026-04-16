@@ -9,14 +9,12 @@ nav_order: 3
 
 {% if site.data.repositories.github_repos %}
 
-<div class="repositories">
-  <div class="row row-cols-1 row-cols-md-2">
-    {% for repo in site.data.repositories.github_repos %}
-      <div class="col mb-4">
-        {% include repository/repo.liquid repository=repo.id %}
-      </div>
-    {% endfor %}
-  </div>
+## GitHub Repositories
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
 </div>
 
 {% endif %}
@@ -27,23 +25,19 @@ nav_order: 3
 
 ## GitHub users
 
-<div class="repositories">
-  <div class="row row-cols-1 row-cols-md-2">
-    {% for user in site.data.repositories.github_users %}
-      <div class="col mb-4">
-        {% include repository/repo_user.liquid username=user %}
-      </div>
-    {% endfor %}
-  </div>
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+  {% endfor %}
 </div>
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
 
-### {{ user }}
+<h4>{{ user }}</h4>
 {% endif %}
-<div class="repositories">
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/repo_trophies.liquid username=user %}
 </div>
 
