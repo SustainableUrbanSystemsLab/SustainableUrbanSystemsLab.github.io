@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Maryam Almaian"
-description: "PhD Student in Architecture"
+title: Maryam Almaian
+description: PhD Student in Architecture
 img: https://avatars.githubusercontent.com/u/143976949?v=4
 importance: 1
-category: "PhD"
+category: PhD
 ---
 
 <div class="profile mb-3 float-right mb-3"> 
