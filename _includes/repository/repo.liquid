@@ -32,29 +32,24 @@
   {% assign max_lines = 2 %}
 {% endif %}
 
-{% assign repo_description = include.repository.description | default: 'View this repository on GitHub.' %}
+<div class="repo p-2 text-center">
+  <a class="repo-link" href="https://github.com/{{ repository }}">
+    <img
+      class="only-light w-100"
+      alt="{{ repository }}"
+      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+    >
+    <img
+      class="only-dark w-100"
+      alt="{{ repository }}"
+      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+    >
 
-<div class="repo p-2">
-  <a class="repo-card" href="https://github.com/{{ repository }}" title="{{ repository }}" style="--repo-description-lines: {{ max_lines }};">
-    <div class="repo-card__header">
-      <span class="repo-card__icon" aria-hidden="true">
-        <i class="fa-brands fa-github"></i>
-      </span>
-      <div class="repo-card__title">
-        {% if show_owner %}
-          <span class="repo-card__owner">{{ repo_url[0] }}/</span>
-        {% endif %}
-        <span class="repo-card__name" title="{{ repository }}">{{ repo_url[1] }}</span>
-      </div>
-    </div>
-
-    <p class="repo-card__description">{{ repo_description }}</p>
-
-    <div class="repo-card__footer">
-      <span class="repo-card__path">{{ repository }}</span>
-      <span class="repo-card__arrow" aria-hidden="true">
-        <i class="fa-solid fa-arrow-up-right-from-square"></i>
-      </span>
+    <div class="repo-title" title="{{ repository }}">
+      {% if show_owner %}
+        <span class="repo-title__owner">{{ repo_url[0] }}/</span>
+      {% endif %}
+      <span class="repo-title__name">{{ repo_url[1] }}</span>
     </div>
   </a>
 </div>
