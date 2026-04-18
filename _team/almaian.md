@@ -3,7 +3,7 @@ layout: page
 title: Maryam Almaian
 description: PhD Student in Architecture
 img: https://avatars.githubusercontent.com/u/143976949?v=4
-importance: 1
+importance: 4
 category: Lab
 ---
 

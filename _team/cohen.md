@@ -10,3 +10,5 @@ category: Alumni
 <div class="profile mb-3"> 
 <img src="/assets/img/team/Cohen.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
+
+Joshua worked on [mobility analytics](https://vip-smur.github.io/25sp-mobility-pei/) in the Mobility-PEI VIP subteam for two semesters.

@@ -11,6 +11,8 @@ category: Alumni
 <img src="/assets/img/team/Mondal.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
+Devam worked on [MPONC](https://vip-smur.github.io/25fa-mponc/) for three semesters in the VIP-SMUR program.
+
 {% capture remote_content %}{% remote_include https://raw.githubusercontent.com/Dodesimo/Dodesimo/refs/heads/main/README.md %}{% endcapture %}
 {% assign lines = remote_content | split: '
 ' %}

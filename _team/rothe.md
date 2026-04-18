@@ -12,4 +12,4 @@ category: Alumni
 </div>
 <br>
 
-Chinmay graduated from his MS in Architecture with a [capstone](/projects/1_capstone) specialization in High Performance Building. Chinmay started as an Architectural Designer at [NJRA Architects, Inc](https://njraarchitects.com/).
+Chinmay graduated from his MS in Architecture with a [capstone](/projects/1_capstone) specialization in High Performance Building. Chinmay also worked on [microclimate modeling](https://vip-smur.github.io/24fa-microclimate-umcf/) in the Microclimate-UMCF VIP subteam. Chinmay started as an Architectural Designer at [NJRA Architects, Inc](https://njraarchitects.com/).

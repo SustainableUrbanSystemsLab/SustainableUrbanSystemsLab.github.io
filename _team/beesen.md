@@ -11,6 +11,8 @@ category: Alumni
 <img src="/assets/img/team/Beesen.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
+Atharva worked on [mobility analytics](https://vip-smur.github.io/25fa-mobility/) in the Mobility-PEI VIP subteam for three semesters.
+After graduating from Georgia Tech, Atharva moved to New York and joined [Optiver](https://optiver.com/).
 
 {% capture remote_content %}{% remote_include https://raw.githubusercontent.com/AtharvaBeesen/AtharvaBeesen/refs/heads/main/README.md %}{% endcapture %}
 {% assign lines = remote_content | split: '

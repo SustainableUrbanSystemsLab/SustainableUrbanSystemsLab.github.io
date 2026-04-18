@@ -12,6 +12,8 @@ category: Alumni
 </div>
 <br>
 
-Anubha moved to Stanford for her MS!
+Anubha worked on [Energy-In-Buildings](https://vip-smur.github.io/25sp-energyinbuildings/) for three semesters in the VIP-SMUR program.
+
+After graduating, Anubha moved to Stanford for an MS in Computer Science.
 
 [Website](https://amahajan68.github.io/academic_cv/)
