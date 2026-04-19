@@ -218,6 +218,12 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.team-profile-content::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

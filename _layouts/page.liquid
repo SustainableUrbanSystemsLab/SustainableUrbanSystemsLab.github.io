@@ -36,7 +36,7 @@ layout: default
     <p class="post-description">{{ page.description }}</p>
   </header>
 
-  <article>
+  <article{% if is_team_page %} class="team-profile-content"{% endif %}>
     {% if is_team_page %}
       {% if profile_image_url or profile_image_path %}
         {% unless content contains 'profile mb-3' %}
