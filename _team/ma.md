@@ -2,13 +2,13 @@
 layout: page
 title: Changda Ma
 description: MS in Architecture 
-img: # assets/img/team/Ma.jpg
+img: # assets/img/team/ma.jpg
 importance: 1
 category: Alumni
 ---
 
 <div class="profile mb-3"> 
-<img src="/assets/img/team/Ma.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/ma.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
 Changda worked on [neuroarchitecture](https://vip-smur.github.io/25sp-neuroarchitecture/) for two semesters in the VIP-SMUR program.

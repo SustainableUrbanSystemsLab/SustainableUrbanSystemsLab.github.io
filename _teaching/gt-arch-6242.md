@@ -20,7 +20,7 @@ _Advanced proficiency in Rhino and Grasshopper is essential. Undergraduate stude
 _Excerpt of student work by [Sabontu Tuse (M.Arch. Georgia Tech Class of 2023)](https://www.linkedin.com/in/sabontu-a-tuse-assoc-aia-noma-317511120/)_.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/ARCH6242-3.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/arch-6242/arch-6242-01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/arch-6242/arch-6242-02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/teaching/arch-6242/arch-6242-03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>

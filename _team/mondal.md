@@ -2,13 +2,13 @@
 layout: page
 title: Devam Mondal
 description: BS Computer Science
-img: # assets/img/team/Mondal.jpg
+img: # assets/img/team/mondal.jpg
 importance: 76
 category: Alumni
 ---
 
 <div class="profile mb-3 float-right mb-3"> 
-<img src="/assets/img/team/Mondal.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/mondal.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
 Devam worked on [MPONC](https://vip-smur.github.io/25fa-mponc/) for three semesters in the VIP-SMUR program.

@@ -9,7 +9,7 @@ category: Georgia Tech
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/VIP-Teaser_1.jpg" title="VIP-Teaser-1" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/teaching/vip/vip-teaser-01.jpg" title="VIP-Teaser-1" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <br>

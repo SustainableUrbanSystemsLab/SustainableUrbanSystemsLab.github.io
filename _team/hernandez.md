@@ -2,11 +2,11 @@
 layout: page
 title: Jessica Hernandez
 description: MS Computer Science
-img: assets/img/team/Hernandez.jpg
+img: assets/img/team/hernandez.jpg
 importance: 50
 category: Lab
 ---
 
 <div class="profile mb-3"> 
-<img src="/assets/img/team/Hernandez.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/hernandez.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>

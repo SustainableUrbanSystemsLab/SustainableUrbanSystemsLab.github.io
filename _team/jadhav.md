@@ -2,13 +2,13 @@
 layout: page
 title: Shruti Jadhav
 description: MS in Architecture (High Performance Building)
-img: # assets/img/team/Jadhav.jpg
+img: # assets/img/team/jadhav.jpg
 importance: 1
 category: Alumni
 ---
 
 <div class="profile mb-3"> 
-<img src="/assets/img/team/Jadhav.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/jadhav.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>
 

@@ -2,13 +2,13 @@
 layout: page
 title: Atharva Beesen
 description: BS Computer Science
-img: # assets/img/team/Beesen.jpg
+img: # assets/img/team/beesen.jpg
 importance: 72
 category: Alumni
 ---
 
 <div class="profile mb-3 float-right mb-3"> 
-<img src="/assets/img/team/Beesen.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/beesen.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
 Atharva worked on [mobility analytics](https://vip-smur.github.io/25fa-mobility/) in the Mobility-PEI VIP subteam for three semesters.

@@ -13,6 +13,6 @@ Congrats again, Maryam!
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/KendedaMicroGrant_Maryam.jpeg" title="KendedaMicroGrant" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/kendeda-microgrant/kendeda-microgrant-maryam.jpeg" title="KendedaMicroGrant" class="img-fluid z-depth-1" %}
     </div>
 </div>

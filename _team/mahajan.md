@@ -2,13 +2,13 @@
 layout: page
 title: Anubha Mahajan
 description: BS Computer Science
-img: # assets/img/team/Mahajan.jpg
+img: # assets/img/team/mahajan.jpg
 importance: 1
 category: Alumni
 ---
 
 <div class="profile mb-3"> 
-<img src="/assets/img/team/Mahajan.jpg" class="img-fluid z-depth-1 rounded"/>
+<img src="/assets/img/team/mahajan.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 <br>
 

@@ -28,25 +28,25 @@ Rosa Tonigs
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/2025/ENSA-M-11.jpg" title="ENSA-M-1" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/teaching/ensa-m-2025/ensa-m-01.jpg" title="ENSA-M-1" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/2025/ENSA-M-12.jpg" title="ENSA-M-2" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/teaching/ensa-m-2025/ensa-m-02.jpg" title="ENSA-M-2" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/2025/ENSA-M-13.jpg" title="ENSA-M-3" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/teaching/ensa-m-2025/ensa-m-03.jpg" title="ENSA-M-3" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/2025/ENSA-M-14.jpg" title="ENSA-M-4" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/teaching/ensa-m-2025/ensa-m-04.jpg" title="ENSA-M-4" class="img-fluid z-depth-1" %}
     </div>
 </div>
 

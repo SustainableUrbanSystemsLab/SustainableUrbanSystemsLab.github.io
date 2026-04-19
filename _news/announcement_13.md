@@ -13,24 +13,24 @@ I would like to thank my committee members Oliver and Martin for all of their su
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PhD_Defense_4.png" title="PhD_Defense_4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/phd-defense/phd-defense-04.png" title="PhD_Defense_4" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PhD_Defense_5.png" title="PhD_Defense_5" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/phd-defense/phd-defense-05.png" title="PhD_Defense_5" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PhD_Defense_1.png" title="PhD_Defense_1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/phd-defense/phd-defense-01.png" title="PhD_Defense_1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PhD_Defense_2.png" title="PhD_Defense_2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/phd-defense/phd-defense-02.png" title="PhD_Defense_2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PhD_Defense_3.png" title="PhD_Defense_3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/phd-defense/phd-defense-03.png" title="PhD_Defense_3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

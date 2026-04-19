@@ -7,7 +7,7 @@ inline: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Poster_PhD_ds.jpg" title="Poster_PhD_ds.jpg" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/phd-poster/phd-poster-ds.jpg" title="Poster_PhD_ds.jpg" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
