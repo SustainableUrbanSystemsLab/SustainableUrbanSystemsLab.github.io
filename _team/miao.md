@@ -11,4 +11,4 @@ category: Lab
   <img src="https://avatars.githubusercontent.com/u/111454815?v=4" class="img-fluid z-depth-1 rounded" alt="Jimmy">
 </div>
 
-Bio coming soon.
+{% remote_include https://raw.githubusercontent.com/jimmymiaozhang/jimmymiaozhang/refs/heads/main/README.md %}
