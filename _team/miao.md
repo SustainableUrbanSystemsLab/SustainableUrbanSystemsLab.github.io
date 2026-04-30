@@ -3,7 +3,7 @@ layout: page
 title: Jimmy Miao
 description: MS Computational Science and Engineering
 img: https://avatars.githubusercontent.com/u/111454815?v=4
-importance: 5
+importance: 9
 category: Lab
 ---
 
