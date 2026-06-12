@@ -11,7 +11,15 @@ category: MS
 {% assign lines = remote_content | split: '
 ' %}
 {% for line in lines offset:2 %}
+{% if line contains 'https://github.com/user-attachments/assets/' %}
+<video width="100%" controls>
+  <source src="{{ line | strip }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+{% else %}
 {{ line }}
+{% endif %}
 {% endfor %}
 
 ## Source
