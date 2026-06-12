@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jimmy Miao
+title: Jimmy Miao Zhang
 description: MS Computational Science and Engineering
 img: https://avatars.githubusercontent.com/u/111454815?v=4
 importance: 9
