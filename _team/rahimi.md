@@ -13,4 +13,6 @@ Co-advisee together with [Prof. Russell Richman](https://www.torontomu.ca/archit
 <img src="/assets/img/team/rahimi.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
 
+Sina worked on his [PhD Thesis](/projects/PhD-SinaRahimi) in the lab.
+
 {% remote_include https://raw.githubusercontent.com/sinarhm/sinarhm/refs/heads/main/README.md %}

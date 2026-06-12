@@ -10,3 +10,5 @@ category: Lab
 <div class="profile mb-3"> 
 <img src="/assets/img/team/shih.jpg" class="img-fluid z-depth-1 rounded"/>
 </div>
+
+Benjamin worked on his [Master's Thesis](/projects/MT-BenjaminShih) in the lab.
