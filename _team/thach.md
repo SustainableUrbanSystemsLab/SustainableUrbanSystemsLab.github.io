@@ -12,7 +12,7 @@ category: Lab
 </div>
 
 
-{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/AtharvaBeesen/AtharvaBeesen/refs/heads/main/README.md %}{% endcapture %}
+{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/Acthach/Acthach/refs/heads/main/README.md %}{% endcapture %}
 {% assign lines = remote_content | split: '
 ' %}
 {% for line in lines offset: 1 limit: 100 %}

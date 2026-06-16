@@ -9,42 +9,42 @@ Check out the LinkedIn posts by [Ze](https://www.linkedin.com/feed/update/urn:li
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_1.jpeg" title="GNI2024-1-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-01.jpeg" title="GNI2024-1-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_2.jpeg" title="GNI2024-2-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-02.jpeg" title="GNI2024-2-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_3.jpeg" title="GNI2024-3-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-03.jpeg" title="GNI2024-3-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_4.jpeg" title="GNI2024-4-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-04.jpeg" title="GNI2024-4-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_5.jpeg" title="GNI2024-5-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-05.jpeg" title="GNI2024-5-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_6.jpeg" title="GNI2024-6-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-06.jpeg" title="GNI2024-6-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GNI2024/GNI2024_7.jpeg" title="GNI2024-7-Munich" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gni-2024/gni-2024-07.jpeg" title="GNI2024-7-Munich" class="img-fluid z-depth-1" %}
     </div>
 </div>

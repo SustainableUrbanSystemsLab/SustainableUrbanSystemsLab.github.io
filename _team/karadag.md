@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ilker Karadağ
+title: Dr. Ilker Karadağ
 description: Affiliate-LongTerm Res/Collab at Georgia Tech.<br> Associate Professor at Sakarya University
 img: https://avatars.githubusercontent.com/u/22752273?v=4
 importance: 2

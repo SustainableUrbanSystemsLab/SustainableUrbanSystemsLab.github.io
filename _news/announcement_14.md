@@ -12,12 +12,12 @@ Thank you very much for the opportunity.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/JeffersonGuestLecture.png" title="JeffersonLecture1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/jefferson-guest-lecture/jefferson-guest-lecture-01.png" title="JeffersonLecture1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/JeffersonGuestLecture_TitleSlide.png" title="JeffersonLecture2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/jefferson-guest-lecture/jefferson-guest-lecture-title-slide.png" title="JeffersonLecture2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

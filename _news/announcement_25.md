@@ -22,41 +22,41 @@ Check out the LinkedIn post [here](https://www.linkedin.com/posts/patrickkastner
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-9.jpg" title="GURC24-9" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-09.jpg" title="GURC24-9" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-2.jpg" title="GURC24-2" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-02.jpg" title="GURC24-2" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-3.jpg" title="GURC24-3" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-03.jpg" title="GURC24-3" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-4.jpg" title="GURC24-4" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-04.jpg" title="GURC24-4" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-5.jpg" title="GURC24-5" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-05.jpg" title="GURC24-5" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-6.jpg" title="GURC24-6" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-06.jpg" title="GURC24-6" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-7.jpg" title="GURC24-7" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-07.jpg" title="GURC24-7" class="img-fluid z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/GURC24/GURC24-8.jpg" title="GURC24-8" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/gurc-2024/gurc-2024-08.jpg" title="GURC24-8" class="img-fluid z-depth-1" %}
     </div>
 </div>

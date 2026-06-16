@@ -11,4 +11,6 @@ category: Alumni
 <img src="https://avatars.githubusercontent.com/u/191314718?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
+Catherine worked on [neuroarchitecture](https://vip-smur.github.io/25sp-neuroarchitecture/) in the VIP-SMUR program.
+
 <!--  remote_include https://raw.githubusercontent.com/cgwallis/cgwallis/refs/heads/main/README.md %} -->

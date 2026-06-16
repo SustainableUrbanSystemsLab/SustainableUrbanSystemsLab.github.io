@@ -2,7 +2,7 @@
 layout: page
 title: Architectural Intelligence—Harnessing AI for Design Intent
 description: Luke Kratsios
-img: assets/img/theses/thesis_2.webp
+img: assets/img/theses/thesis-02.webp
 importance: 1
 category: BArch
 ---
@@ -22,7 +22,7 @@ category: BArch
 <div class="row">
     <div class="col-12 mt-3 mt-md-0 px-0">
         <div class="cropped-image-container">
-            <img src="/assets/img/theses/thesis_2.webp" alt="Thesis Luke Kratsios" class="cropped-image">
+            <img src="/assets/img/theses/thesis-02.webp" alt="Thesis Luke Kratsios" class="cropped-image">
         </div>
     </div>
 </div>

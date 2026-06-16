@@ -11,12 +11,12 @@ She and her team are currently working on a surrogate model of urban building en
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Sustainability-Showcase-2.jpg" title="Sustainability-Showcase-2" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/sustainability-showcase/sustainability-showcase-02.jpg" title="Sustainability-Showcase-2" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Sustainability-Showcase-1.jpg" title="Sustainability-Showcase-1" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/sustainability-showcase/sustainability-showcase-01.jpg" title="Sustainability-Showcase-1" class="img-fluid z-depth-1" %}
     </div>
 </div>

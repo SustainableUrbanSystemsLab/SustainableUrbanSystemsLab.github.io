@@ -13,6 +13,6 @@ Congrats, Hang!
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CAADFutures2025/HangXu.jpg" title="HangXu-CAAD-Futures-2025" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/caad-futures-2025/hang-xu.jpg" title="HangXu-CAAD-Futures-2025" class="img-fluid z-depth-1" %}
     </div>
 </div>

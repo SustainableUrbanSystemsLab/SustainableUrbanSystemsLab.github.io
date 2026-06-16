@@ -10,7 +10,7 @@ inline: false
 Congrats, Ze!
 
 {% include figure.liquid 
-   path="assets/img/HPC_Summer_Institute.png" 
+   path="assets/img/news/hpc-summer-institute/hpc-summer-institute.png" 
    title="Ze at HPC Summer Institute" 
    class="img-fluid z-depth-1" %}
 

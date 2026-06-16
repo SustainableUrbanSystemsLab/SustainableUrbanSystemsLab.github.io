@@ -33,18 +33,18 @@ If this piqued your interest, please come talk to me next week 5/15 01:15-02:45p
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CaseStudy1.gif" title="CaseStudy1" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/case-studies/case-study-01.gif" title="CaseStudy1" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CaseStudy2.gif" title="CaseStudy2" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/case-studies/case-study-02.gif" title="CaseStudy2" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CaseStudy3.gif" title="CaseStudy3" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/case-studies/case-study-03.gif" title="CaseStudy3" class="img-fluid z-depth-1" %}
     </div>
 </div>

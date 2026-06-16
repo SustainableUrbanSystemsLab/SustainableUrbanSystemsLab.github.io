@@ -13,7 +13,7 @@ footer_text: >
   <a href="https://siddharthdasari.com/">Design credits</a>.
 keywords: georgia-tech, academic, lab, sustainability, architecture, decision-making, urban, stakeholders # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon_color/android-chrome-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicons/color/android-chrome-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sustainableurbansystems.com/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -24,7 +24,7 @@ back_to_top: true # set to false to disable the back to top button
 # Adding a theme-aware logo
 logo:
   enabled: true
-  path: /assets/img/favicon_color/android-chrome-512x512.png
+  path: /assets/img/favicons/color/android-chrome-512x512.png
 
 # -----------------------------------------------------------------------------
 # Theme

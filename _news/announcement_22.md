@@ -17,37 +17,37 @@ Thank you to all organizers and I hope to see everyone again in Brisbane next su
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/SimBuild2024/SB1.jpg" title="SimBuild-2024-1" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/simbuild-2024/simbuild-2024-01.jpg" title="SimBuild-2024-1" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/SimBuild2024/SB2.jpg" title="SimBuild-2024-2" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/simbuild-2024/simbuild-2024-02.jpg" title="SimBuild-2024-2" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/SimBuild2024/SB3.jpg" title="SimBuild-2024-3" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/simbuild-2024/simbuild-2024-03.jpg" title="SimBuild-2024-3" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/SimBuild2024/SB4.jpg" title="SimBuild-2024-4" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/simbuild-2024/simbuild-2024-04.jpg" title="SimBuild-2024-4" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/SimBuild2024/SB5.jpg" title="SimBuild-2024-5" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/simbuild-2024/simbuild-2024-05.jpg" title="SimBuild-2024-5" class="img-fluid z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/SimBuild2024/SB6.jpg" title="SimBuild-2024-6" class="img-fluid z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/simbuild-2024/simbuild-2024-06.jpg" title="SimBuild-2024-6" class="img-fluid z-depth-1" %}
     </div>
 </div>
 

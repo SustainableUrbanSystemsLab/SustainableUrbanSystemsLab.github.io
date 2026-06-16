@@ -1,11 +1,13 @@
-
-
 repo_description_lines_max: 3
 
 github_repos:
-  - SustainableUrbanSystemsLab/CP-IBPC2024-Humidity-Case
-  - SustainableUrbanSystemsLab/CP-IBPC2024-UMCF-Case
-  - SustainableUrbanSystemsLab/CP-SIGRADI2024-Assessing-Solar-Potential-of-Buildings-Using-LiDAR-and-Footprint-Data
-  - SustainableUrbanSystemsLab/CP-GNI2024-Symposium-Enriching-geospatial-building-datasets
-  - SustainableUrbanSystemsLab/NREL-PSM3-2-EPW
-  - Eddy3D-Dev/Plot-OpenFOAM-Residuals
+  - id: Eddy3D-Dev/Eddy3D-BatchRunner
+    description: "A tool for running Eddy3D simulations in batch."
+  - id: RhinoPackages/RhinoPackages.github.io
+    description: "The RhinoPackages website."
+  - id: SustainableUrbanSystemsLab/CP-IBPC2024-Humidity-Case
+  - id: SustainableUrbanSystemsLab/CP-IBPC2024-UMCF-Case
+  - id: SustainableUrbanSystemsLab/CP-SIGRADI2024-Assessing-Solar-Potential-of-Buildings-Using-LiDAR-and-Footprint-Data
+  - id: SustainableUrbanSystemsLab/CP-GNI2024-Symposium-Enriching-geospatial-building-datasets
+  - id: SustainableUrbanSystemsLab/NREL-PSM3-2-EPW
+  - id: Eddy3D-Dev/Plot-OpenFOAM-Residuals
