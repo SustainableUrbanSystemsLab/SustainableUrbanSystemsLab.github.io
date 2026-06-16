@@ -30,7 +30,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/theses/";
               },
-            },{id: "nav-teaching",
+            },{id: "nav-code",
+          title: "Code",
+          description: "Listed below are some of our GitHub repositories and workflows.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/code/";
+          },
+        },{id: "nav-teaching",
           title: "Teaching",
           description: "Listed below are our past and current teaching engagements.",
           section: "Navigation",
@@ -219,6 +226,31 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_38/";
+            },},{id: "news-sina-rahimi-successfully-defended-his-phd",
+          title: 'Sina Rahimi successfully defended his PhD',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_39/";
+            },},{id: "news-presenting-with-dr-benson-ku-at-chhs-health-systems-day",
+          title: 'Presenting with Dr. Benson Ku at CHHS Health Systems Day',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_40/";
+            },},{id: "news-hosted-dr-jialei-shen-for-a-visiting-lecture-on-air-quality-and-healthy-buildings",
+          title: 'Hosted Dr. Jialei Shen for a visiting lecture on air quality and healthy...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_41/";
+            },},{id: "news-celebrating-benjamin-shih-and-joseph-aerathu-39-s-ms-thesis-defenses",
+          title: 'Celebrating Benjamin Shih and Joseph Aerathu&amp;#39;s MS thesis defenses',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_42/";
+            },},{id: "news-maryam-presented-three-papers-at-simbuild-2026",
+          title: 'Maryam presented three papers at SimBuild 2026!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_43/";
             },},{id: "projects-a-comparative-study-on-the-urban-weather-generator",
           title: 'A Comparative Study on the Urban Weather Generator',
           description: "Ze Yu Jiang",
@@ -229,6 +261,11 @@ ninja.data = [{
           description: "Luke Kratsios",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BT-LukeKratsios/";
+            },},{id: "projects-lidar-data-for-enriching-open-geospatial-building-datasets",
+          title: 'LiDAR data for enriching open geospatial building datasets',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CP-GNI2024-Symposium-Enriching-geospatial-building-datasets/";
             },},{id: "projects-influence-of-vegetation-structure-on-urban-microclimate",
           title: 'Influence of Vegetation Structure on Urban Microclimate',
           description: "Chinmay Rothe",
@@ -264,6 +301,11 @@ ninja.data = [{
           description: "Silvia Vangelova",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CS-SilviaVangelova/";
+            },},{id: "projects-integrating-ml-predicted-weather-data-into-epw-files",
+          title: 'Integrating ML-Predicted Weather Data into EPW Files',
+          description: "Benjamin Shih",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MT-BenjaminShih/";
             },},{id: "projects-urban-microclimate-comparative-study-envi-met-vs-outdoor",
           title: 'Urban Microclimate Comparative Study - ENVI-met vs Outdoor+',
           description: "Marcelo Alvarez",
@@ -274,6 +316,11 @@ ninja.data = [{
           description: "Maryam Almaian",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MT-MaryamAlmaian/";
+            },},{id: "projects-retrieval-of-spatio-temporal-knowledge-from-cyber-physical-building-systems",
+          title: 'Retrieval of Spatio-Temporal Knowledge from Cyber-Physical Building Systems',
+          description: "Joseph Aerathu",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MT-RiG-X-JosephAerathu/";
             },},{id: "projects-phd-thesis",
           title: 'PhD Thesis',
           description: "Sina Rahimi",
@@ -334,6 +381,11 @@ ninja.data = [{
           description: "MS in Architecture (Design Computation)",
           section: "Team",handler: () => {
               window.location.href = "/team/alvarez/";
+            },},{id: "team-ian-baracskay",
+          title: 'Ian Baracskay',
+          description: "BS Computer Engineering",
+          section: "Team",handler: () => {
+              window.location.href = "/team/baracskay/";
             },},{id: "team-atharva-beesen",
           title: 'Atharva Beesen',
           description: "BS Computer Science",
@@ -349,6 +401,11 @@ ninja.data = [{
           description: "BArch Architecture",
           section: "Team",handler: () => {
               window.location.href = "/team/carroll/";
+            },},{id: "team-lucy-chai",
+          title: 'Lucy Chai',
+          description: "BS Industrial Engineering",
+          section: "Team",handler: () => {
+              window.location.href = "/team/chai/";
             },},{id: "team-mallika-champaneria",
           title: 'Mallika Champaneria',
           description: "MArch Architecture",
@@ -364,6 +421,11 @@ ninja.data = [{
           description: "BS Civil Engineering",
           section: "Team",handler: () => {
               window.location.href = "/team/cohen/";
+            },},{id: "team-katherine-davis",
+          title: 'Katherine Davis',
+          description: "BS Industrial Engineering",
+          section: "Team",handler: () => {
+              window.location.href = "/team/davis/";
             },},{id: "team-mason-dewitt",
           title: 'Mason Dewitt',
           description: "BS Electrical Engineering",
@@ -414,8 +476,8 @@ ninja.data = [{
           description: "BS Computer Science and Math",
           section: "Team",handler: () => {
               window.location.href = "/team/jiang/";
-            },},{id: "team-ilker-karadağ",
-          title: 'Ilker Karadağ',
+            },},{id: "team-dr-ilker-karadağ",
+          title: 'Dr. Ilker Karadağ',
           description: "Affiliate-LongTerm Res/Collab at Georgia Tech. Associate Professor at Sakarya University",
           section: "Team",handler: () => {
               window.location.href = "/team/karadag/";
@@ -429,6 +491,11 @@ ninja.data = [{
           description: "Assistant Professor at Emory University",
           section: "Team",handler: () => {
               window.location.href = "/team/ku/";
+            },},{id: "team-kavya-lalith",
+          title: 'Kavya Lalith',
+          description: "BS Computer Engineering",
+          section: "Team",handler: () => {
+              window.location.href = "/team/lalith/";
             },},{id: "team-jiayi-li",
           title: 'Jiayi Li',
           description: "BArch Architecture",
@@ -459,6 +526,11 @@ ninja.data = [{
           description: "Assistant Professor at UC Denver",
           section: "Team",handler: () => {
               window.location.href = "/team/martinez_mori/";
+            },},{id: "team-jimmy-miao-zhang",
+          title: 'Jimmy Miao Zhang',
+          description: "MS Computational Science and Engineering",
+          section: "Team",handler: () => {
+              window.location.href = "/team/miao/";
             },},{id: "team-dr-johannes-milz",
           title: 'Dr. Johannes Milz',
           description: "Assistant Professor in ISyE at Georgia Tech",
@@ -489,6 +561,11 @@ ninja.data = [{
           description: "MS in Architecture (High Performance Building)",
           section: "Team",handler: () => {
               window.location.href = "/team/rothe/";
+            },},{id: "team-nithish-sabapathy",
+          title: 'Nithish Sabapathy',
+          description: "BS Computer Science",
+          section: "Team",handler: () => {
+              window.location.href = "/team/sabapathy/";
             },},{id: "team-vishnu-sankar",
           title: 'Vishnu Sankar',
           description: "MS Computational Science and Engineering",
@@ -514,6 +591,11 @@ ninja.data = [{
           description: "MS Computer Science",
           section: "Team",handler: () => {
               window.location.href = "/team/thach/";
+            },},{id: "team-jason-tran",
+          title: 'Jason Tran',
+          description: "BS Computer Science",
+          section: "Team",handler: () => {
+              window.location.href = "/team/tran/";
             },},{id: "team-dr-graeme-troxell",
           title: 'Dr. Graeme Troxell',
           description: "Postdoc at Colorado State University",
