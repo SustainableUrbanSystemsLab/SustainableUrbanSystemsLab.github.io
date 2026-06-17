@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-17'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 5
     title: 'OpenPyStruct: Open-source toolkit for machine learning-driven structural optimization'
     year: '2025'
   XNaNgkwAAAAJ:2osOgNQ5qMEC:
-    citations: 16
+    citations: 17
     title: Predicting Space Usage by Multi-Objective Assessment of Outdoor Thermal Comfort around a University Campus
     year: '2020'
   XNaNgkwAAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: A Physics-informed GAN framework for Urban Wind Analysis with Arbitrary Input and Output Channels
     year: Unknown Year
   XNaNgkwAAAAJ:4TOpqqG69KYC:
-    citations: 18
+    citations: 19
     title: 'Towards auto-calibrated UBEM using readily available, underutilized urban data: a case study for Ithaca, NY'
     year: '2024'
   XNaNgkwAAAAJ:7PzlFSSx8tAC:
@@ -33,10 +33,6 @@ papers:
     citations: 14
     title: Towards High-Resolution Annual Outdoor Thermal Comfort Mapping In Urban Design
     year: '2019'
-  XNaNgkwAAAAJ:HDshCWvjkbEC:
-    citations: 0
-    title: 'Establishing a Fire Risk Map Based on Planned Spatial Layouts and Environment in Rural Planning: A Case Study of a Stereotype Village in China'
-    year: '2025'
   XNaNgkwAAAAJ:IWHjjKOFINEC:
     citations: 0
     title: How Much Computational Complexity is Necessary to Model Relevant Aspects in Microclimate Urban Physics?
@@ -50,11 +46,11 @@ papers:
     title: "Towards Safer Work Environments During the COVID-19 Crisis: A Study Of Different Floor Plan Layouts and Ventilation Strategies Coupling Open FOAM and Airborne Pathogen Data for \u2026"
     year: '2021'
   XNaNgkwAAAAJ:Se3iqnhoufwC:
-    citations: 88
+    citations: 89
     title: 'Eddy3D: A toolkit for decoupled outdoor thermal comfort simulations in urban areas'
     year: '2022'
   XNaNgkwAAAAJ:TQgYirikUcIC:
-    citations: 0
+    citations: 1
     title: 'The influence of vegetation structure on urban microclimate: A CFD analysis of urban block and vegetation densities'
     year: '2025'
   XNaNgkwAAAAJ:Tyk-4Ss8FVUC:
@@ -62,7 +58,7 @@ papers:
     title: Fighting Hunger in the Digital Era
     year: '2018'
   XNaNgkwAAAAJ:UeHWp8X0CEIC:
-    citations: 79
+    citations: 81
     title: 'From energy performative to livable Mediterranean cities: An annual outdoor thermal comfort and energy balance cross-climatic typological study'
     year: '2020'
   XNaNgkwAAAAJ:WF5omc3nYNoC:
@@ -86,11 +82,11 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2026'
   XNaNgkwAAAAJ:_kc_bZDykSQC:
-    citations: 111
+    citations: 114
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
     year: '2023'
   XNaNgkwAAAAJ:d1gkVwhDpl0C:
-    citations: 59
+    citations: 62
     title: A cylindrical meshing methodology for annual urban computational fluid dynamics simulations
     year: '2019'
   XNaNgkwAAAAJ:dhFuZR0502QC:
@@ -106,7 +102,7 @@ papers:
     title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
     year: '2021'
   XNaNgkwAAAAJ:hFOr9nPyWt4C:
-    citations: 7
+    citations: 8
     title: A bottom-up urban building energy model for evaluating thermal load electrification measures
     year: '2026'
   XNaNgkwAAAAJ:hqOjcs7Dif8C:
