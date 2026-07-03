@@ -7,8 +7,9 @@ importance: 20251210
 category: PhD
 ---
 
-This PhD defense is currently in scheduled for Jan 2026. The repository will host materials and documentation as the thesis gets accepted.
-
-## Source
-
-[Link](https://github.com/SustainableUrbanSystemsLab/PhD-SinaRahimi/) to the repository.
+{% capture remote_content %}{% remote_include https://raw.githubusercontent.com/SustainableUrbanSystemsLab/PhD-SinaRahimi/refs/heads/main/README.md %}{% endcapture %}
+{% assign lines = remote_content | split: '
+' %}
+{% for line in lines offset:2 %}
+{{ line }}
+{% endfor %}
