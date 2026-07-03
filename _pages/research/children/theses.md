@@ -5,7 +5,7 @@ permalink: /theses/
 description: A growing collection of completed work in the lab.
 nav: false
 nav_order: 2
-display_categories: [PhD, MS, Capstone, BArch, Abstract, Course Project, Project, Conference Paper]
+display_categories: [PhD, MS, Capstone, BArch, Abstract]
 horizontal: true
 ---
 

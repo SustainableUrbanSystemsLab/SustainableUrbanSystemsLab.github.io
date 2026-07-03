@@ -2,7 +2,7 @@
 layout: page
 title: PhD Thesis
 description: Sina Rahimi
-img: 
+img: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/PhD-SinaRahimi/main/assets/figures/figure_4_2_tmu_temperature_field.png
 importance: 20251210
 category: PhD
 ---
