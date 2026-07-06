@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: A Physics-informed GAN framework for Urban Wind Analysis with Arbitrary Input and Output Channels
     year: Unknown Year
   XNaNgkwAAAAJ:4TOpqqG69KYC:
-    citations: 19
+    citations: 20
     title: 'Towards auto-calibrated UBEM using readily available, underutilized urban data: a case study for Ithaca, NY'
     year: '2024'
   XNaNgkwAAAAJ:7PzlFSSx8tAC:
@@ -86,7 +86,7 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2026'
   XNaNgkwAAAAJ:_kc_bZDykSQC:
-    citations: 117
+    citations: 118
     title: A GAN-based surrogate model for instantaneous urban wind flow prediction
     year: '2023'
   XNaNgkwAAAAJ:d1gkVwhDpl0C:
@@ -106,7 +106,7 @@ papers:
     title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
     year: '2021'
   XNaNgkwAAAAJ:hFOr9nPyWt4C:
-    citations: 8
+    citations: 9
     title: A bottom-up urban building energy model for evaluating thermal load electrification measures
     year: '2026'
   XNaNgkwAAAAJ:hqOjcs7Dif8C:
@@ -117,9 +117,17 @@ papers:
     citations: 0
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: Unknown Year
+  XNaNgkwAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: 'EBuild AI: A Retrieval-Augmented Framework for Generating Global, Simulation-Ready Urban Building Datasets'
+    year: '2026'
   XNaNgkwAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: 'Machine learning for urban wind simulation: A comprehensive review'
+    year: '2026'
+  XNaNgkwAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: AI-Based Metric for Building and Grid Reliability Assessment via Input Propagation and Stress Testing
     year: '2026'
   XNaNgkwAAAAJ:mB3voiENLucC:
     citations: 0
