@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   XNaNgkwAAAAJ:-f6ydRqryjwC:
     citations: 6
@@ -102,7 +102,7 @@ papers:
     title: 'Comparative Modeling of Urban Microclimate and Outdoor Thermal Comfort: A Case Study of Georgia Tech Campus'
     year: '2025'
   XNaNgkwAAAAJ:eQOLeE2rZwMC:
-    citations: 26
+    citations: 27
     title: 'Surfer: A fast simulation algorithm to predict surface temperatures and mean radiant temperatures in large urban models'
     year: '2021'
   XNaNgkwAAAAJ:hFOr9nPyWt4C:
