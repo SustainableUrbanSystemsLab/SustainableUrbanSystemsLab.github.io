@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LiDAR data for enriching open geospatial building datasets"
-description: "LiDAR data for enriching open geospatial building datasets:  implications for urban building energy modeling"
+description: ""
 img:
 importance: 20240101
 category: Conference Paper
