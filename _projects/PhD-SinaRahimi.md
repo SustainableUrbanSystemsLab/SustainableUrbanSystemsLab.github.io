@@ -2,7 +2,7 @@
 layout: page
 title: PhD Thesis
 description: Sina Rahimi
-img: 
+img:
 importance: 20251210
 category: PhD
 ---
