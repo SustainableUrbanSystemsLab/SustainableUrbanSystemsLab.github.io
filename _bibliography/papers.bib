@@ -191,6 +191,19 @@
 	google_scholar_id = {4TOpqqG69KYC}
 }
 
+@article{kastner2026physicsgan,
+	title        = {A Physics-informed GAN Framework for Urban Wind Analysis with Arbitrary Input and Output Channels},
+	author       = {Kastner, Patrick and Chen, Kefan and Manivasakan, Vishnu and Michalatos, Panagiotis and Karadag, Ilker and Dogan, Timur},
+	year         = 2026,
+	journal      = {Available at SSRN 6401886},
+	doi          = {10.2139/ssrn.6401886},
+	url          = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6401886},
+	abstract     = {Urban wind flow patterns influence pedestrian comfort, safety, and urban ventilation, yet high-fidelity CFD remains too costly for iterative design exploration. We present a cGAN implemented in PyTorch that takes multi-height SDFs of the air domain and a wind-direction channel as input and predicts all three velocity components and pressure at real-time inference speed. Unlike prior approaches, our architecture produces multi-variable flow fields in a single forward pass and accepts arbitrary input and output channel counts, making it straightforward to add new geometry encodings or output quantities. A physics-residual loss based on 2D continuity and momentum conservation stabilizes adversarial training. The model achieves SSIM scores of 0.90-0.98 on unseen cases, with residual errors concentrated only near sharp geometric transitions and wake regions. A systematic ablation across five input configurations shows that multi-height SDFs improve accuracy, whereas an explicit scale channel or building-only SDFs provide no significant benefit. Despite richer inputs and outputs, inference takes approximately 1 s, which is faster than the previous model. The trained generator is exported to ONNX format for direct integration into Rhino/Grasshopper CAD workflows, enabling real-time wind feedback during early-stage massing studies.},
+	bibtex_show  = {true},
+	google_scholar_id = {4JMBOYKVnBMC},
+	website      = {https://www.eddy3d.com}
+}
+
 @article{kastner2023gan,
 	title        = {A GAN-based Surrogate Model for Instantaneous Urban Wind Flow Prediction},
 	author       = {Kastner, Patrick and Dogan, Timur},
