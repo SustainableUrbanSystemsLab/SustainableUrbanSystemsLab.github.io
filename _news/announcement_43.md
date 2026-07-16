@@ -9,6 +9,8 @@ inline: false
 
 The papers cover EBuild AI, a retrieval-augmented framework for generating simulation-ready urban building datasets, data-driven models for urban energy characterization and UBEM input inference, and an AI-based reliability metric that connects neighborhood building characteristics with electrical grid performance to guide retrofit decisions.
 
+IBPSA-USA presented the Best Poster Award to Rawad El Kontar, Maryam Almaian, Ardelia Clarke, Patrick Kastner, Isa Ferrall-Wolf, Robin Tuttle, and Ryan King for "AI-Based Metric for Building and Grid Reliability Assessment via Input Propagation and Stress Testing" for advancing the building performance simulation field.
+
 This work was developed with Dr. Rawad El Kontar and Dr. Patrick Kastner, with support from the Kuwait Foundation for the Advancement of Sciences (KFAS).
 
 Congrats, Maryam!
