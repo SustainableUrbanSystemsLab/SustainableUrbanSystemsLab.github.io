@@ -15,4 +15,16 @@ This work was developed with Dr. Rawad El Kontar and Dr. Patrick Kastner, with s
 
 Congrats, Maryam!
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/news/simbuild-2026/simbuild-2026-01.jpg" title="SimBuild-2026-Best-Poster-Award" class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/news/simbuild-2026/simbuild-2026-02.jpg" title="SimBuild-2026-Best-Poster-Certificate" class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
 [LinkedIn Post](https://www.linkedin.com/posts/maryam-almaian_simbuild-ugcPost-7463762242728017920-htO5/)
