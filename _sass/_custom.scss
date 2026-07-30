@@ -213,6 +213,20 @@ html[data-theme-setting="system"] {
 }
 
 // -----------------------------------------------------------------------------
+// Figures pulled in by remote_include
+// -----------------------------------------------------------------------------
+// Project pages embed a README from the project's own repo. Its markdown images
+// become bare <img> tags with no theme classes, so they render at natural size —
+// the thesis figures are up to 1400px against a 900px content column, and worse
+// on mobile. Anything rendered through figure.liquid already carries a class, so
+// :not([class]) leaves those alone.
+
+.post article img:not([class]) {
+  max-width: 100%;
+  height: auto;
+}
+
+// -----------------------------------------------------------------------------
 // Layout fixes carried over from the pre-v1 _sass/_base.scss
 // -----------------------------------------------------------------------------
 
