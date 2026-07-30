@@ -10,11 +10,12 @@
             `logo.enabled` is off. Everything else in this file tracks al_folio_core.
           {% endcomment %}
           {% if site.logo.enabled and site.logo.path %}
-            <img
-              src="{{ site.logo.path | relative_url }}"
-              height="45"
-              alt="{{ site.title | default: site.first_name | append: ' ' | append: site.middle_name | append: ' ' | append: site.last_name | strip }}"
-            >
+            {%- if site.title == 'blank' -%}
+              {%- capture logo_alt %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% endcapture -%}
+            {%- else -%}
+              {%- assign logo_alt = site.title -%}
+            {%- endif -%}
+            <img src="{{ site.logo.path | relative_url }}" height="45" alt="{{ logo_alt | normalize_whitespace | strip }}">
           {% elsif site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">

@@ -257,6 +257,10 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  # Upstream's Playwright/integration harness. v1.1 ships `test/` in the starter but
+  # does not exclude it, so without this the specs and shell scripts get published
+  # to the live site. Not upstreamed here; drop this line if al-folio adds it.
+  - test/
 keep_files:
   - CNAME
   - .nojekyll

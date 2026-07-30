@@ -218,6 +218,7 @@ GEM
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-regex-replace (1.1.0)
+    jekyll-remote-include (1.0.2)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-scholar (7.3.0)
@@ -376,6 +377,7 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-regex-replace
+  jekyll-remote-include
   jekyll-scholar
   jekyll-sitemap
   jekyll-socials
@@ -466,6 +468,7 @@ CHECKSUMS
   jekyll-minifier (0.2.2) sha256=f0a182b98b369492b9d93f1dd064223cf04a10ba31c49e1535f28fe35764ee19
   jekyll-paginate-v2 (3.0.0) sha256=001be6c1963caa41fed9c2f43b0d47201defa0395381eb8830487c1c2fc4f4e3
   jekyll-regex-replace (1.1.0) sha256=3738e6a0aa07dd3f9b7369e6e38e5d245c623bbd70c31b21e7838c654377a00c
+  jekyll-remote-include (1.0.2) sha256=dbf8f2213244a4de2225f92f74206d71085b6b23e4611733f614587e01d88295
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-scholar (7.3.0) sha256=d912e60aa5ab342fb4322772f02674152e2799375612a2aa5f9b2228728fd09b
   jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
