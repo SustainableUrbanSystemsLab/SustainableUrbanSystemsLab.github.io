@@ -1,0 +1,22 @@
+// Site-specific styles for the SustainLab site.
+//
+// In al-folio v1.x the base stylesheets are gem-owned (al_folio_core). This file
+// holds the rules that used to live as local edits inside the pre-v1 `_sass/_base.scss`
+// and `_sass/_themes.scss` monoliths, so those two files no longer need to shadow
+// their gem counterparts.
+//
+// Loaded from `assets/css/main.scss`, last, so it can adjust gem defaults.
+
+// Team member pages float the profile portrait next to the bio (see _layouts/page.liquid).
+// Without a clearfix the following section collapses into the floated image.
+.team-profile-content::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+// Repository cards on /code/ should fill their flex column on narrow viewports;
+// al_folio_core only sets a width from the `md` breakpoint up.
+.repo {
+  width: 100%;
+}
