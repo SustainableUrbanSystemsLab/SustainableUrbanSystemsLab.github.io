@@ -1,4 +1,11 @@
-<div class="col mb-4">
+{% comment %}
+  `team-member` is a styling hook for _sass/_custom.scss. The Bootstrap/MDB utility
+  classes below (h-100, mb-4, p-2, card) were authored against the Bootstrap 4 + MDB
+  CDN that pre-v1 al-folio loaded. v1 reimplements some of those names with Tailwind
+  semantics — notably `h-100`, which means 25rem here rather than `height: 100%` —
+  so the card is pinned to the pre-v1 rendering under this class instead.
+{% endcomment %}
+<div class="col mb-4 team-member">
   {% assign avatar_url = nil %}
   {% assign avatar_path = nil %}
   {% if project.github %}
