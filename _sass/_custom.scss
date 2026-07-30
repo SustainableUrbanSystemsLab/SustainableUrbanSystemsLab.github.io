@@ -1,0 +1,231 @@
+// Site-specific styles for the SustainLab site.
+//
+// In al-folio v1.x the base stylesheets are gem-owned (al_folio_core). This file
+// holds the rules that used to live as local edits inside the pre-v1 `_sass/_base.scss`
+// and `_sass/_themes.scss` monoliths, plus the handful of Bootstrap/MDB utilities
+// this site's content depends on that v1 no longer ships (see below).
+//
+// Loaded from `assets/css/main.scss`, last, so it can adjust gem defaults.
+
+@use "sass:math";
+
+// -----------------------------------------------------------------------------
+// Theme-aware logo
+// -----------------------------------------------------------------------------
+// The home page hero logo comes from the org profile README, pulled in by
+// `{% remote_include %}` in _pages/about.md. That markup is:
+//
+//   <img src="assets/img/cd/sustainlab-logo-wordmark-color-white.svg"
+//        class="img-fluid theme-aware-logo" ...>
+//
+// The `src` is relative to *that* repo and 404s here, so the image is only ever
+// visible because `content: url(...)` replaces it with a local wordmark. Because
+// the class lives in a remote file, grepping this repo for it finds nothing —
+// it is not dead CSS. Removing these rules leaves a broken image on the home page.
+
+html[data-theme-setting="dark"] {
+  .theme-aware-logo {
+    content: url("/assets/img/brand/sustainlab-logo-wordmark-color-white.svg");
+  }
+}
+
+html[data-theme-setting="light"] {
+  .theme-aware-logo {
+    content: url("/assets/img/brand/sustainlab-logo-wordmark-color-black.svg");
+  }
+}
+
+// v1 renders the tri-state toggle itself, so the old `#light-toggle-*` display
+// rules are gone — but the system state still needs the logo picked by media query.
+html[data-theme-setting="system"] {
+  @media (prefers-color-scheme: dark) {
+    .theme-aware-logo {
+      content: url("/assets/img/brand/sustainlab-logo-wordmark-color-white.svg");
+    }
+  }
+
+  @media (prefers-color-scheme: light) {
+    .theme-aware-logo {
+      content: url("/assets/img/brand/sustainlab-logo-wordmark-color-black.svg");
+    }
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Bootstrap 4 / MDB utilities dropped in v1
+// -----------------------------------------------------------------------------
+// Pre-v1 al-folio loaded bootstrap.min.css and mdb.min.css from a CDN. v1 replaced
+// both with al_folio_core's own Tailwind layer, which reimplements most of the
+// classes this site uses but not these. Values match what Bootstrap 4 served, so
+// the rendering is unchanged from the pre-migration site.
+//
+// `al_folio_bootstrap_compat` ships `.bg-transparent` / `.border-0` but without
+// `!important`, so its versions lose the cascade to `.card` — hence these local
+// copies rather than enabling that gem.
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.bg-transparent {
+  background-color: transparent !important;
+}
+
+.border-0 {
+  border: 0 !important;
+}
+
+// `row-cols-*`: ships in neither al_folio_core nor the compat gem. The team page
+// grid (`row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5`) collapses to a
+// plain flex row without them.
+@mixin row-cols($count) {
+  > * {
+    flex: 0 0 math.percentage(math.div(1, $count));
+    max-width: math.percentage(math.div(1, $count));
+  }
+}
+
+.row-cols-1 {
+  @include row-cols(1);
+}
+.row-cols-2 {
+  @include row-cols(2);
+}
+.row-cols-3 {
+  @include row-cols(3);
+}
+.row-cols-4 {
+  @include row-cols(4);
+}
+.row-cols-5 {
+  @include row-cols(5);
+}
+.row-cols-6 {
+  @include row-cols(6);
+}
+
+@media (min-width: 576px) {
+  .row-cols-sm-1 {
+    @include row-cols(1);
+  }
+  .row-cols-sm-2 {
+    @include row-cols(2);
+  }
+  .row-cols-sm-3 {
+    @include row-cols(3);
+  }
+  .row-cols-sm-4 {
+    @include row-cols(4);
+  }
+  .row-cols-sm-5 {
+    @include row-cols(5);
+  }
+  .row-cols-sm-6 {
+    @include row-cols(6);
+  }
+}
+
+@media (min-width: 768px) {
+  .row-cols-md-1 {
+    @include row-cols(1);
+  }
+  .row-cols-md-2 {
+    @include row-cols(2);
+  }
+  .row-cols-md-3 {
+    @include row-cols(3);
+  }
+  .row-cols-md-4 {
+    @include row-cols(4);
+  }
+  .row-cols-md-5 {
+    @include row-cols(5);
+  }
+  .row-cols-md-6 {
+    @include row-cols(6);
+  }
+}
+
+@media (min-width: 992px) {
+  .row-cols-lg-1 {
+    @include row-cols(1);
+  }
+  .row-cols-lg-2 {
+    @include row-cols(2);
+  }
+  .row-cols-lg-3 {
+    @include row-cols(3);
+  }
+  .row-cols-lg-4 {
+    @include row-cols(4);
+  }
+  .row-cols-lg-5 {
+    @include row-cols(5);
+  }
+  .row-cols-lg-6 {
+    @include row-cols(6);
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Team member cards (_includes/team_member.liquid)
+// -----------------------------------------------------------------------------
+// That include is written against Bootstrap 4 + MDB, which pre-v1 al-folio loaded
+// from a CDN. v1 dropped both and reuses some of the same class names with Tailwind
+// semantics, which turned the plain portrait grid into boxed cards:
+//
+//   .h-100      Tailwind reads this as 100 spacing units (25rem), not `height: 100%`
+//   .card       al_folio_core gives it a background and a drop shadow
+//   .card-body  gem padding (1.25rem) outranks the element's `.p-2`
+//   .card-title inherits gem heading sizing (32px) instead of Bootstrap's h5 (20px)
+//
+// Values below are the computed values from the pre-migration site, so this grid
+// renders as it did before. Scoped to `.team-member` because these utility names
+// are used nowhere else in this repo.
+
+.team-member {
+  margin-bottom: 1.5rem; // Bootstrap mb-4; Tailwind's is 1rem
+
+  .card {
+    height: auto;
+    box-shadow: none;
+  }
+
+  .card-body {
+    padding: 0.5rem; // p-2
+  }
+
+  .card-title {
+    margin: 0 0 0.25rem;
+    font-size: 1.25rem; // Bootstrap h5
+    font-weight: 400;
+    line-height: 1.2;
+  }
+
+  .card-text {
+    font-size: 0.9rem; // .small
+    line-height: 1.5;
+  }
+
+  .mt-3 {
+    margin-top: 1rem; // Bootstrap mt-3; Tailwind's is 0.75rem
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Layout fixes carried over from the pre-v1 _sass/_base.scss
+// -----------------------------------------------------------------------------
+
+// Team member pages float the profile portrait next to the bio (see _layouts/page.liquid).
+// Without a clearfix the following section collapses into the floated image.
+.team-profile-content::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+// Repository cards on /code/ should fill their flex column on narrow viewports;
+// al_folio_core only sets a width from the `md` breakpoint up.
+.repo {
+  width: 100%;
+}

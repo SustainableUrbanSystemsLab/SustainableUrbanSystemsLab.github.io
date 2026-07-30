@@ -26,7 +26,15 @@
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: sustainable-urban-systems-lab # your LinkedIn user name
+# NOTE: `linkedin_username` is deliberately unset. jekyll-socials hard-codes it to
+# linkedin.com/in/<user> (a personal profile), but the lab's presence is a company
+# page. jekyll-socials renders unknown keys from url/title/logo, so the company link
+# is declared as a custom entry below. This replaces the old `_includes/social.liquid`
+# override, which existed only to change this one URL.
+linkedin_company:
+  url: https://www.linkedin.com/company/sustainable-urban-systems-lab
+  title: LinkedIn
+  logo: fa-brands fa-linkedin-in
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0003-4940-341X # your ORCID ID
@@ -34,7 +42,7 @@ orcid_id: 0000-0003-4940-341X # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Patrick-Kastner # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: XNaNgkwAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
@@ -49,8 +57,8 @@ scholar_userid: XNaNgkwAAAAJ # your Google Scholar ID
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+x_username: sustain_lab # your X handle
+youtube_id: SustainableUrbanSystemsLab # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
   # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
