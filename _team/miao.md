@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jimmy Miao Zhang
-description: PhD Student in Computational Science and Engineering (co-advised)
+description: PhD Computational Science and Engineering (co-advised)
 img: https://avatars.githubusercontent.com/u/111454815?v=4
 importance: 9
 category: Lab
