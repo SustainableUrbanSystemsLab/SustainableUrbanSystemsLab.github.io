@@ -39,7 +39,7 @@ module Jekyll
       content = nil
       urls.each do |url|
         begin
-          content = URI.open(url, "User-Agent" => "Jekyll").read
+          content = URI.parse(url).open("User-Agent" => "Jekyll").read
           break if content && !content.strip.empty?
         rescue OpenURI::HTTPError, SocketError, Timeout::Error, Errno::ECONNRESET,
                Errno::ETIMEDOUT, Errno::ECONNREFUSED, Errno::EHOSTUNREACH,
