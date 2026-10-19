@@ -101,6 +101,9 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      # The gh-pages branch is rebuilt by GitHub's own Jekyll, which drops dot-directories (/.well-known/api-catalog).
+      - name: Keep dot-directories
+        run: touch _site/.nojekyll
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
